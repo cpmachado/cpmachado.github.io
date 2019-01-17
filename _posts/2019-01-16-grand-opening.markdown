@@ -31,7 +31,7 @@ and not be persecuted for aggression?
 
 ### Nurses, in whose interest
 
-In whose interest does this movement win force?
+In whose interest does this movement get stronger?
 
 The good people in the private sector are happy. Their profits skyrocket, while
 they enjoy the show. The great question is if they are eating popcorn. I'm not
