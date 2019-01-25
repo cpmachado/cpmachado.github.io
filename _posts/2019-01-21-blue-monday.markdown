@@ -13,20 +13,26 @@ song, which is a favourite of mine. Feel free to hear it on YouTube, just press
 the image.
 
 Looked into the origins, and it has to do with a study done back in 2005. Being
-honest, I'm feeling to lazy to read it today. Busy day at work, and I'm plenty
-tired for the day. You can read the Wikipedia page [here][Wiki-article]. From
-the little I've read, it's one of those trendy days, because every day is about
-something.
+honest, I'm feeling too lazy to read it today. Busy day at work, and I'm plenty
+tired for the day. You can read about it in the Wikipedia page
+[here][Wiki-article]. From the little I've read, it's one of those trendy days.
 
-It essentially tries to model environment variables and its impact on people's
-mood. In this case, it talks about the weather, and Christmas' credit card
-bills. It is sloppy, as it was expected. There is little to say about this kind
-of modelling. You have some idiot with a fancy diploma. The idiot sells is
-signature, or is just a plain idiot, and this kind of pseudo-science is born.
+> Everyday has something about it, nowadays.
+
+It tries to model environment variables and impacts on people's mood. In this
+case, it talks about the weather, Christmas' credit card bills, and little more.
+It is sloppy, as expected. There is little to say about this kind of "study".
+
+You just need some conditions:
+1. Some idiot with a fancy diploma 
+2. The idiot being prone to:
+	- sell his signature
+	- seeking fame with ludicrous allegations
+3. Useless pseudo-science is born
 
 There is no honour about cash money, unless you are a proper merc. There is
 none, nowadays. People sell themselves and others for pennies. Nobody cares
-about anything anymore. This is me, on a blue Monday, or month. January has
+about anything anymore. This is me, on a blue Monday or month. January has
 always been tough on me.
 
 Over and out. See you around.
