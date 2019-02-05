@@ -1,27 +1,25 @@
-[Event "Open Portugal R1"]
-[Site ""]
+[Event "Open Portugal 2019"]
 [Date "2019.02.02"]
 [Round "1"]
 [White "Carlos Machado"]
 [Black "Georges Bertola"]
+[Result "0-1"]
 [WhiteElo "1412"]
 [BlackElo "2101"]
-[Result "0-1"]
 
 1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d5 6.Re1 c6 7.Nbd2 Nbd7 8.c4 e6
 9.b3 b6 10.Bb2 Bb7 11.h3 Re8 12.Rc1 Rc8 13.e4 dxe4 14.Nxe4 Nxe4 15.Rxe4 c5
 16.Re2 cxd4 17.Bxd4 e5 18.Be3 Qe7 19.Rd2 Red8 20.h4 Nf8 21.Bh3 Rxd2 22.
 Bxd2 Rd8 23.Qe2 Bxf3 0-1
 
-[Event "Open Portugal R2"]
-[Site ""]
+[Event "Open Portugal 2019"]
 [Date "2019.02.03"]
 [Round "2"]
 [White "Verner Hansen"]
 [Black "Carlos Machado"]
+[Result "1-0"]
 [WhiteElo "1874"]
 [BlackElo "1412"]
-[Result "1-0"]
 
 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nf6 5.Bg5 e6 6.Bd3 Be7 7.O-O h6 8.Bd2 b6
 9.Qe2 O-O 10.Re1 Nc6 11.c3 Bb7 12.h3 Rc8 13.Bf4 Bd6 14.Ne5 Bxe5 15.dxe5 
@@ -29,15 +27,31 @@ Nd7 16.Nd2 Nc5 17.Nf3 Nxd3 18.Qxd3 Nb8 19.Nd4 Ba6 20.Qg3 g5 21.h4 Kh7 22.
 hxg5 Rg8 23.Qh3 Rg6 24.Re3 Qe7 25.Rg3 Rcg8 26.Nf3 Bd3 27.Nh4 Bf5 28.Nxg6 
 1-0
 
-[Event "Open Portugal R2"]
-[Site ""]
+[Event "Open Portugal 2019"]
 [Date "2019.02.03"]
 [Round "3"]
 [White "Sohum Lohia"]
 [Black "Carlos Machado"]
+[Result "1-0"]
 [WhiteElo "1727"]
 [BlackElo "1412"]
-[Result "1-0"]
 
 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6 5.c3 Bg4 6.Qb3 Qd7 7.Bf4 e6 1-0
+
+[Event "Open Portugal 2019"]
+[Date "2019.02.04"]
+[Round "4"]
+[White "Carlos Machado"]
+[Black "Escarlata Alonso Rodriguez"]
+[Result "1-0"]
+[WhiteElo "1382"]
+
+1.Nf3 c5 2.c4 b6 3.Nc3 Nc6 4.g3 Nf6 5.Bg2 g6 6.O-O Bg7 7.a3 O-O 8.Rb1 Bb7 
+9.b4 d6 10.e3 a5 11.b5 Ne5 12.Nxe5 Bxg2 13.Kxg2 dxe5 14.e4 Qd3 15.Re1 Rad8
+16.Qb3 Bh6 17.Nd5 Qxb3 18.Rxb3 Nxd5 19.exd5 f6 20.d3 a4 21.Rb2 Bxc1 22.
+Rxc1 f5 23.Re2 e4 24.dxe4 fxe4 25.Rxe4 Rde8 26.Rce1 Rf7 27.Re6 Kg7 28.Rxb6
+Ref8 29.Re2 Ra8 30.Rbe6 Kf8 31.Rc6 Ra7 32.Ree6 Ke8 33.Ra6 Rc7 34.Rxa4 Kf8 
+35.Raa6 Ke8 36.a4 Kd8 37.Rac6 Ra7 38.Ra6 Rd7 39.a5 Rc7 40.Rac6 Ra7 41.Ra6 
+Rd7 42.b6 Ke8 43.Ra8+ Rd8 44.b7 Rxa8 45.bxa8=Q+ Kd7 46.Qb7+ Kd8 47.d6 exd6
+48.Qxf7 Kc8 49.Re8# 1-0
 
