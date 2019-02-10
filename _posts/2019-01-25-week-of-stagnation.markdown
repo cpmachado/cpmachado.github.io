@@ -2,6 +2,7 @@
 layout: post
 title: "Week of stagnation"
 date: "2019-01-25 21:11:26 +0000"
+category: journal
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Hello, old foe"
 date: "2019-02-07 13:57:01 +0000"
+category: journal
 ---
 
 > Hello Darkness, my old friend

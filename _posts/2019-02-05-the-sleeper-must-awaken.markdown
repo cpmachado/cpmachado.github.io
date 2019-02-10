@@ -2,6 +2,7 @@
 layout: post
 title: "The sleeper must awaken"
 date: "2019-02-05 15:15:15 +0000"
+category: journal
 ---
 
 > “Without change something sleeps inside us, and seldom awakens. The sleeper

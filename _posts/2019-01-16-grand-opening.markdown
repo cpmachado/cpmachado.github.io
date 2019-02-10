@@ -2,6 +2,7 @@
 layout: post
 title: "Grand opening"
 date: "2019-01-16 21:53:29 +0000"
+category: journal
 ---
 
 > Tell me… Is being stupid a profession or are you just gifted?

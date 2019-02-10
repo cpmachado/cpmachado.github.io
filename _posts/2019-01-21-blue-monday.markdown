@@ -2,6 +2,7 @@
 layout: post
 title: "Blue Monday"
 date: "2019-01-21 17:03:33 +0000"
+category: journal
 ---
 
 [![Blue Monday Video][Video-image]][Video-link]
