@@ -32,7 +32,7 @@ from their essence or being designed as bloated time bombs.
 
 At the end of the day, it makes sense. The tech lead doesn't want competition. They screw the little
 guy by feeding them pots of shit. Never have we ever had so much power. Never have we been so
-illiterate or sabotaged from the beginning. The FSF appears to me have been taken over. FOSS and
+illiterate or sabotaged from the beginning. The FSF appears to have been taken over. FOSS and
 FLOSS too, by these big corporations that have seen a way to massively indoctrinate the masses.
 
 I thank for my feature rich and bloated software. Had it not been so, I wouldn't be aware of all
