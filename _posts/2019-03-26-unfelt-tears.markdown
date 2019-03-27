@@ -21,6 +21,6 @@ help, or is it just my physiological response? I sure feel sedated. There is not
 world. I could sing “Across the Universe” by the Beatles.
 
 Awareness of the need for change, doesn't elude me. I simply don't care. I wonder what comes next.
-Who wouldn't giving the circumstances? I don't know. It's unnerving how ignorant and indifferent a
+Who wouldn't given the circumstances? I don't know. It's unnerving how ignorant and indifferent a
 human being can be.
 
