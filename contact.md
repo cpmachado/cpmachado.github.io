@@ -10,7 +10,8 @@ You can contact me through my email: [{{ site.email }}][email]
 
 Or through my twitter account: [{{ site.twitter_username }}][twitter]
 
-Changed my mind, don't contact me for job proposals. I'm good where I am.
+Give me a poke, if you have an interesting project.
+I live in Lisbon, so remote or around.
 
 
 [email]: mailto:{{site.email}}
