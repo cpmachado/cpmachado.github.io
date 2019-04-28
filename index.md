@@ -17,6 +17,7 @@ My most recent:
 
 ## Categories
 - [Journal](/journal)
+- [Meditations](/meditations)
 
 For all posts -> [click here](/posts)
 
