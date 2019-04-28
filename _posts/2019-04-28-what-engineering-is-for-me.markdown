@@ -10,7 +10,7 @@ Some time ago, I was around twenty. Two people of whom I have the utter most res
 question. They both sought the same answer. In both cases, I've failed. I was young, reckless, and a
 bit unorthodox. In a fatherly way, they taught me.
 
-Engineering is nothing more than a method. It's a protocol to apply knowledge to produce something.
+Engineering is nothing more than a method. It's a protocol to apply knowledge to solve a problem.
 This is a trivial explanation, because even now I fail to answer it. The concept is seeded in my
 mind. The application is faulty. I need practice. What it is not, is what a technician does.
 
