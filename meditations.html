@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Posts"
+title: "Meditations"
+list_title: "Meditations"
 ---
 
 <div class="home">
@@ -8,9 +9,18 @@ title: "Posts"
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  <p> All my posts from the meditations category, there aren't many yet.</p>
+
+  <p class="feed-subscribe">
+    <svg class="svg-icon orange">
+      <use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+    </svg>
+    <a href="{{ "/feed/meditations.xml" | relative_url }}">Subscribe my meditations</a>
+  </p>
+
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in site.categories['meditations'] -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>

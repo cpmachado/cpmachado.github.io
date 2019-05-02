@@ -9,6 +9,17 @@ permalink: /about
 ![ for Something completely different][different]
 
 
+#### My Github Accounts
+
+<https://github.com/cfy>
+
+My most recent:
+
+<https://github.com/cpmachado>
+
+#### My NPM account
+
+<https://www.npmjs.com/~cfy>
 
 
 

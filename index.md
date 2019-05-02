@@ -19,5 +19,5 @@ My most recent:
 - [Journal](/journal)
 - [Meditations](/meditations)
 
-For all posts -> [click here](/posts)
+***For all posts -> [Posts](/posts)***
 
