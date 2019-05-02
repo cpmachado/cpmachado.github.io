@@ -28,7 +28,7 @@ digital representations, and the legal representation. The links that connect
 them all are getting stronger.
 
 These links are nothing but handcuffs. Nevertheless, they are access points to
-be used to try to understand us. People have never been exposed. For the best or
+be used to try to understand us. People have never been so exposed. For the best or
 the worst, it can be useful. Even amongst the turmoil of this data Tsunami,
 there must be something good out of it. It can't only be this social crisis and
 all it's layers.
