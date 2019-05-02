@@ -17,7 +17,7 @@ mind. The application is faulty. I need practice. What it is not, is what a tech
 I feel nowadays there are almost no engineers around the world, that I know. I watch mostly
 technicians. I watch hoodies calling themselves engineers, but they don't understand. The industrial
 complex that created our educational system, used to praise engineers. Nowadays, I think it's
-different. Whence today, I'd rather be call an hacker, that tries to make things work, than an
+different. Whence today, I'd rather be called an hacker, that tries to make things work, than an
 engineer. FYI, I'm not an engineer, I'm what they call a *"software developer"*.
 
 An engineer today, appears to be a mere technician, with all due respect. The world needs them more
