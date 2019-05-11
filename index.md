@@ -3,17 +3,7 @@ layout: home
 title: "127.0.0.1"
 ---
 
-## My Github Accounts
-
-<https://github.com/cfy>
-
-My most recent:
-
-<https://github.com/cpmachado>
-
-## My NPM account
-
-<https://www.npmjs.com/~cfy>
+A simple blog with the ramblings of a person perceiving life a bit differently.
 
 ## Categories
 - [Journal](/journal)
