@@ -1,10 +1,10 @@
----
+* * *
+
 layout: post
 title: "What to do, what to do?"
 date: "2019-05-11 18:13:27 +0100"
-category: journal
----
 
+## category: journal
 
 Life took a turn. Questions give rise to decisions, yet to be made.
 Everything must be thought out. Hesitation is intolerable, but caution is
@@ -36,4 +36,4 @@ There is use in visiting, but not reliving.
 
 It's the end of an era for me. It might be the same for you. Remember just
 that you can never go back or leave your life on hold. The question lingers in
-the air. ***"What to do?"***
+the air. **_"What to do?"_**

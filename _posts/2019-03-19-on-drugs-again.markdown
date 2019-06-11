@@ -1,10 +1,10 @@
----
+* * *
+
 layout: post
 title: "On drugs again"
 date: "2019-03-19 17:19:00 +0000"
-category: journal
----
 
+## category: journal
 
 > How lovely it is to start taking something that steals all your joy away?
 

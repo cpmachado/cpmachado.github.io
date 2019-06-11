@@ -1,9 +1,10 @@
----
+* * *
+
 layout: post
 title: "Labour's day"
 date: "2019-05-01 21:23:32 +0100"
-category: journal
----
+
+## category: journal
 
 I'm enjoying the day, as anyone can. Anyone that has quit his job. Bound only to settle unresolved
 issues, regarding my departure. I'm a bit broken about all this. Disappointment is hard to evade.

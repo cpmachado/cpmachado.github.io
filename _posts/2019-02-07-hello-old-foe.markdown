@@ -1,14 +1,14 @@
----
+* * *
+
 layout: post
 title: "Hello, old foe"
 date: "2019-02-07 13:57:01 +0000"
-category: journal
----
+
+## category: journal
 
 > Hello Darkness, my old friend
 >
-> -- Initial verse from "Sound of Silence" by Simon and Garfunkel
-
+> \-- Initial verse from "Sound of Silence" by Simon and Garfunkel
 
 During the last few days, I've been struggling once again. Crippling anxiety
 binding me to the depths of hell. Today, I awoke in pure panic, for no reason.
@@ -42,5 +42,3 @@ what is in front of them.
 Hence, I've come to retire from competitive chess for the time being. I estimate
 that my return won't come to be before summer. I've said this before, but today
 it's a very different context. I've responsibilities to other people.
-
-

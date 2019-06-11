@@ -1,15 +1,15 @@
----
+* * *
+
 layout: post
 title: "The sleeper must awaken"
 date: "2019-02-05 15:15:15 +0000"
-category: journal
----
+
+## category: journal
 
 > “Without change something sleeps inside us, and seldom awakens. The sleeper
 > must awaken.”
 >
 > ― Frank Herbert, Dune
-
 
 Awoke at six, as expected. Still in a dream state, fell on the bed again to wake
 up at half past eight. Got late to work, according to my own schedule. I was
@@ -30,6 +30,6 @@ just for survival.
 
 Today, here I go again.
 
-
 Here are my games(Yesterday's game, round 4):
-- [Link with pgn file](/res/openPort.pgn)
+
+-   [Link with pgn file](/res/openPort.pgn)

@@ -1,15 +1,14 @@
----
+* * *
+
 layout: post
 title: "Data, Data, Data"
 date: "2019-02-15 10:38:37 +0000"
-category: journal
----
 
+## category: journal
 
 > “Data! Data! Data!” he cried impatiently. “I can’t make bricks without clay.”
 >
 > Sherlock Holmes -The Adventure of the Copper Beeches
-
 
 After being short of breath for a couple weeks, I've risen again. Stuck in this
 cycle of mania and euphoria. I still stand alienated from this world of ours. I

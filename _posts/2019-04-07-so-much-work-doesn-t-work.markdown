@@ -1,10 +1,10 @@
----
+* * *
+
 layout: post
 title: "So much work, doesn't work"
 date: "2019-04-07 19:19:56 +0100"
-category: journal
----
 
+## category: journal
 
 Been trying for some time, really trying. There was this idea of mine of creating an awesome node
 module to manage runtime files, of node applications. Simple architecture, and all, but failed. At
@@ -26,5 +26,3 @@ in the end there is only silence. The silence of my own oppression programmed in
 masochist ways. I need to be productive. Shit, do I need to be productive?
 
 At the end of the day, so much work, doesn't work.
-
-

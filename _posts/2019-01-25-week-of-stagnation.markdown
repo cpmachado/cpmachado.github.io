@@ -1,10 +1,10 @@
----
+* * *
+
 layout: post
 title: "Week of stagnation"
 date: "2019-01-25 21:11:26 +0000"
-category: journal
----
 
+## category: journal
 
 > "Every man finds his limitations, Mr. Holmes, but at least it cures us of the
 > weakness of self-satisfaction."
@@ -31,7 +31,7 @@ The question lingers in the air. To be or not to be. The great soliloquy of
 Hamlet, written by the great bard. He knew. The absurdity of life never
 disappoints. I'm tired, once again. I leave thee two great soliloquy's.
 
------
+* * *
 
 [![Hamlet][Hamlet-image]][Hamlet-link]
 
@@ -39,12 +39,11 @@ Hamlet's soliloquy, performed by David Tennant
 
 This is one is really big, go search for it.
 
------
+* * *
 
 [![Macbeth][Macbeth-image]][Macbeth-link]
 
 Macbeth's soliloquy, performed by Patrick Stewart
-
 
    Macb. She should haue dy'de heereafter;  
 There would haue beene a time for such a word:  
@@ -59,9 +58,10 @@ And then is heard no more. It is a Tale
 Told by an Ideot, full of sound and fury  
 Signifying nothing.
 
-
 [Hamlet-image]: https://img.youtube.com/vi/xYZHb2xo0OI/0.jpg
+
 [Hamlet-link]: https://youtu.be/xYZHb2xo0OI
 
 [Macbeth-image]: https://img.youtube.com/vi/HZnaXDRwu84/0.jpg
+
 [Macbeth-link]: https://youtu.be/HZnaXDRwu84

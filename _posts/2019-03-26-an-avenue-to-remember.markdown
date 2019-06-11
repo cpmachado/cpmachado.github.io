@@ -1,10 +1,10 @@
----
+* * *
+
 layout: post
 title: "An avenue to remember"
 date: "2019-03-26 20:47:56 +0000"
-category: journal
----
 
+## category: journal
 
 Under the darkness of night and life, we tend to hold some memories dearly.
 In the gloom of my current status, there's this one night, when I was here in my
@@ -26,5 +26,3 @@ Had there been any man with his own avenue, somewhere and somewhen? I don't know
 so. Then again, I'll have it, for now.
 Today, I have my avenue, and its beauty appears to rival that of the floating bag in “American
 Beauty”.
-
-

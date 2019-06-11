@@ -1,10 +1,10 @@
----
+* * *
+
 layout: post
 title: "Yesterday and Tomorrow"
 date: "2019-04-24 15:58:56 +0100"
-category: journal
----
 
+## category: journal
 
 Been reading **Albert Camus**' "Stranger". There is something hypnotic about it. It's my favourite.
 Today, I'm finished up again, and appear to be mesmerized by some parts of it. There is this
@@ -18,10 +18,4 @@ I try to resist it, but I can't. I think of the next week. So far, it seems, whe
 already last week. Time flies by, because it piles on. There's a rhythm to life. It doesn't go too
 fast or too slow. It goes as it goes.
 
-
 Yesterday, Today, and Tomorrow remain the words that in the mess appear to describe some truth.
-
-
-
-
-

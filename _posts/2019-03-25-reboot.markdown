@@ -1,9 +1,10 @@
----
+* * *
+
 layout: post
 title: "Reboot"
 date: "2019-03-25 18:01:31 +0000"
-category: journal
----
+
+## category: journal
 
 I was just smoking. A colleague talked to me. Asked about what I was thinking of, and how I was
 doing. I answered in dry manner. Something had come back from the depths of my soul. The archetype
@@ -23,5 +24,3 @@ I shall not sleep, rest or otherwise until I'm back to be a beacon of such arche
 it. I'll blood oath it, if need.
 
 At the end of the day, all I needed was a reboot.
-
-

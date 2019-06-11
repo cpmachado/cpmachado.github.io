@@ -1,10 +1,10 @@
----
+* * *
+
 layout: post
 title: "The day madness became clarity"
 date: "2019-03-21 23:05:32 +0000"
-category: journal
----
 
+## category: journal
 
 A few months of bad days, ever since I started coding again. There were good days too, but mostly
 bad. The endless routine turns my screws. Turn, turn, turn... Not being recovered or prepared, chaos
@@ -40,5 +40,3 @@ this. The sacrifice we do for all this. Convenience, for our lives.
 
 We programmers have a social responsibility. I've failed at it, and as the hypocrite any other is, I
 write these words.
-
-

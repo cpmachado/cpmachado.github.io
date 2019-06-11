@@ -1,10 +1,10 @@
----
+* * *
+
 layout: post
 title: "What engineering is for me?"
 date: "2019-04-28 15:50:26 +0100"
-category: meditations
----
 
+## category: meditations
 
 Some time ago, I was around twenty. Two people of whom I have the utter most respect, asked this
 question. They both sought the same answer. In both cases, I've failed. I was young, reckless, and a
@@ -18,7 +18,7 @@ I feel nowadays there are almost no engineers around the world, that I know. I w
 technicians. I watch hoodies calling themselves engineers, but they don't understand. The industrial
 complex that created our educational system, used to praise engineers. Nowadays, I think it's
 different. Whence today, I'd rather be called an hacker, that tries to make things work, than an
-engineer. FYI, I'm not an engineer, I'm what they call a *"software developer"*.
+engineer. FYI, I'm not an engineer, I'm what they call a _"software developer"_.
 
 An engineer today, appears to be a mere technician, with all due respect. The world needs them more
 than engineers. Yet the world needs engineers too. I see the **hacker** culture disintegrating and
@@ -29,4 +29,3 @@ the ilk of engineers.
 Engineers are on the verge of extinction. Companies want only instant results. They behave as badly
 educated children. Even those I praise with such status, drop themselves on their knees. What is
 engineering to me? Today? A mere fantasy.
-
