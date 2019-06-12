@@ -1,13 +1,13 @@
-* * *
-
+---
 layout: post
 title: "It has arrived"
 date: "2019-02-12 13:29:36 +0000"
+category: journal
+---
 
-## category: journal
 
 > “It has arrived.”
-> \-- A phrase to haunt anyone's dreams
+> -- A phrase to haunt anyone's dreams
 
 It's a pretty haunting phrase. Like Hemingway's “Baby shoes not worn”, it tells
 infinite stories, limited only by the reader's imagination. I don't seek to set

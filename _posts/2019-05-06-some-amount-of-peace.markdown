@@ -1,10 +1,10 @@
-* * *
-
+---
 layout: post
 title: "Some amount of peace"
 date: "2019-05-06 00:04:37 +0100"
+category: meditations
+---
 
-## category: meditations
 
 Relief or some peace can be achieved, by running away. It is a bad habit, I've
 tried to break. Failure to manage it, frustration gives rise to indifference. I
@@ -22,3 +22,4 @@ dust off my typewriter and back to work on my book, that has gone neglected for
 some three months.
 
 Au revoir
+

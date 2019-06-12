@@ -1,16 +1,16 @@
-* * *
-
+---
 layout: post
 title: "Cognitive Dissonance"
 date: "2019-02-10 16:17:07 +0000"
-
-## category: journal
+category: journal
+---
 
 > Cognitive dissonance refers to a situation involving conflicting attitudes,
 > beliefs or behaviors. This produces a feeling of mental discomfort leading to
 > an alteration in one of the attitudes, beliefs or behaviors to reduce the
 > discomfort and restore balance.
-> \-- taken from [Simply Psychology][simply-psychology-article]
+> -- taken from [Simply Psychology][simply-psychology-article]
+
 
 It's well known, for all who've met me, that I don't praise Psychology. To say
 the least, I give it the minimum respect possible. It has been changed lately,
@@ -34,4 +34,6 @@ finished during the week.
 
 See you in yet another day.
 
+
 [simply-psychology-article]: https://www.simplypsychology.org/cognitive-dissonance.html
+

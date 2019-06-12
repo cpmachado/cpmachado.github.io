@@ -1,13 +1,13 @@
-* * *
-
+---
 layout: page
 title: About
+permalink: /about
+---
 
-## permalink: /about
 
 ### And now....
-
 ![ for Something completely different][different]
+
 
 #### My Github Accounts
 
@@ -21,4 +21,14 @@ My most recent:
 
 <https://www.npmjs.com/~cfy>
 
+
+
+
 [different]: images/completely-different.gif
+
+
+
+
+
+
+

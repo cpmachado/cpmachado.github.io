@@ -1,10 +1,10 @@
-* * *
-
+---
 layout: post
 title: "Unfelt tears"
 date: "2019-03-26 20:27:55 +0000"
+category: journal
+---
 
-## category: journal
 
 Taking the medication. Apathy rules my soul. I could endure all emotional pain, just for my body to
 show. My mind is in another place.  It focus only in tasks. Once such task is the end of life. Why
@@ -23,3 +23,4 @@ world. I could sing “Across the Universe” by the Beatles.
 Awareness of the need for change, doesn't elude me. I simply don't care. I wonder what comes next.
 Who wouldn't given the circumstances? I don't know. It's unnerving how ignorant and indifferent a
 human being can be.
+

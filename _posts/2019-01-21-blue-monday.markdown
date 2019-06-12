@@ -1,12 +1,12 @@
-* * *
-
+---
 layout: post
 title: "Blue Monday"
 date: "2019-01-21 17:03:33 +0000"
-
-## category: journal
+category: journal
+---
 
 [![Blue Monday Video][Video-image]][Video-link]
+
 
 Today, we live the infamous faux holiday. Blue Monday, they call it. The first
 time I heard of it, I said "nice". Thought they were talking about New Order's
@@ -25,11 +25,11 @@ case, it talks about the weather, Christmas' credit card bills, and little more.
 It is sloppy, as expected. There is little to say about this kind of "study".
 
 You just need some conditions:
-1\. Some idiot with a fancy diploma 
-2\. The idiot being prone to:
-	\- sell his signature
-	\- seeking fame with ludicrous allegations
-3\. Useless pseudo-science is born
+1. Some idiot with a fancy diploma 
+2. The idiot being prone to:
+	- sell his signature
+	- seeking fame with ludicrous allegations
+3. Useless pseudo-science is born
 
 There is no honour about cash money, unless you are a proper merc. There is
 none, nowadays. People sell themselves and others for pennies. Nobody cares
@@ -39,7 +39,6 @@ always been tough on me.
 Over and out. See you around.
 
 [Video-image]: https://img.youtube.com/vi/KSGWsmR4ipM/0.jpg
-
 [Video-link]: https://youtu.be/KSGWsmR4ipM
-
 [Wiki-article]: https://en.wikipedia.org/wiki/Blue_Monday_%28date%29
+

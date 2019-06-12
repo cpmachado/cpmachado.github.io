@@ -1,10 +1,10 @@
-* * *
-
+---
 layout: post
 title: "Exile"
 date: "2019-05-19 23:28:29 +0100"
+category: journal
+---
 
-## category: journal
 
 After two weeks of exile, I relive the routine. An anti-pattern of my life,
 when certain things go awry. Some relief is attained, but the ruins need to
@@ -21,3 +21,5 @@ country, that's just a bit different culturally.
 There's a certain mystic about it. I am still crossing a desert,
 unfortunately. Something appears to be in the horizon. What it is, I don't
 know, but it is something.
+
+

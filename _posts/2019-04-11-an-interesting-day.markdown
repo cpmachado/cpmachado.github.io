@@ -1,10 +1,10 @@
-* * *
-
+---
 layout: post
 title: "An interesting day"
 date: "2019-04-11 23:36:37 +0100"
+category: journal
+---
 
-## category: journal
 
 Today, I had lunch with a friend. He's an IT recruiter for a living. Not a stereotype, he actually
 cares about people. Just before meeting him, I was cleaning up the documentation at work. Having
@@ -27,3 +27,5 @@ Absurd that strikes you at any corner of life. Who knows?
 
 Sometimes I wonder, if this is normal. You know, having no clue what do you want for yourself at the
  age of twenty-four. Going back home now, to the beautiful empty streets. It's midnight.
+
+
