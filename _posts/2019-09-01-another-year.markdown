@@ -6,7 +6,7 @@ category: journal
 ---
 
 Another year has come to pass. The end of an era is in the horizon. Tonight,
-I reach the twenty five years of life, and the return of a seasonal exile.
+I reach twenty five years of life, and the return of a seasonal exile.
 Three or four months of self reflection, of death and rebirth. Succeeding and
 failing, not only a necessity, but there's need of a deeper one. A true
 revolution. It could be called a rite of passage for me.
