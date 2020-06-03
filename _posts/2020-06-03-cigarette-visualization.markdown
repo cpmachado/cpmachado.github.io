@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cigarette Visualization"
-date: "2020-06-03 12:25:43 +0100"
+date: "2020-06-03 17:42:55 +0100"
 category: journal
 ---
 
@@ -12,6 +12,7 @@ Updated every couple of days.
 >
 > Edited:
 > - 2020-06-03 12:25:43 +0100
+> - 2020-06-03 17:42:55 +0100
 
 I started the day, by contemplating the need to change some habits. The other
 day, I decided to buy some shag tobacco. To evaluate the efficiency and the
@@ -27,14 +28,13 @@ has been some year, since my last data visualization project/job.
 <script>
 	var ctx = document.getElementById('cigaretteViz').getContext('2d');
 	var options = {
-		responsive: true,
 		title: {
 			display: true,
 			text: 'My smoking statistics'
 		},
 		tooltips: {
 			mode: 'index',
-			intersect: false,
+			intersect: false
 		},
 		hover: {
 			mode: 'nearest',
@@ -136,6 +136,7 @@ Stored in the repo in [\data/cigs.json](https://github.com/cpmachado/cpmachado.g
 	<p> Just came to update the numbers. I managed to make 57 cigarettes out of
 	a 30g <b>Amber Leaf</b> bag.</p>
 	<p>I do need to start smoking less, or leave it altogether.</p>
+	<p>Decided to gradually stop until the 16th of June</p>
 </div>
 
 
