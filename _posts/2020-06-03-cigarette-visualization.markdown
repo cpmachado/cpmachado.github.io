@@ -5,11 +5,8 @@ date: "2020-06-03 12:25:43 +0100"
 category: journal
 ---
 
------
-> Data visualization of my tobacco use
->
-> Updated every couple of days
------
+Data visualization of my tobacco use.
+Updated every couple of days.
 
 > First published on 2020/06/012020-06-01 17:04:25 +0100
 >
