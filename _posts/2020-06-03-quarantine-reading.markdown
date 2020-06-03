@@ -7,8 +7,8 @@ category: journal
 
 
 Been trying to write since the last true post, in December. Honesty
-should prevail, my will to write has shivered amidst a roller coaster of emotions
-of late. Been miserable and happy, but lonely no more.
+should prevail, lately my will to write has shivered amidst a roller coaster of
+emotions. Been miserable and happy, but lonely no more.
 
 Most of the time, I've been quite happy. It's an odd feeling, for the
 existential despair ridden old me. Nice as it is, it comes with some downsides.
