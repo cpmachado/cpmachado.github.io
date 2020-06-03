@@ -1,5 +1,27 @@
 {
-  "labels": ["05/31", "06/01", "06/02"],
-  "smoked": [29, 26, 0],
-  "produced": [6, 30, 0]
+	"series": [
+		{
+			"day": "05/31",
+			"smoked": 29,
+			"amber": 6,
+			"marlboro": 23
+		},
+		{
+			"day": "06/01",
+			"smoked": 30,
+			"amber": 30
+		},
+		{
+			"day": "06/02",
+			"smoked": 29,
+			"amber": 21,
+			"golden": 6,
+			"bummed": 2
+		},
+		{
+			"day": "06/03",
+			"smoked": 2,
+			"golden": 4
+		}
+	]
 }
