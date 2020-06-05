@@ -1,18 +1,19 @@
 ---
 layout: post
 title: "Cigarette Visualization"
-date: "2020-06-03 17:42:55 +0100"
+date: "2020-06-05 07:53:58 +0100"
 category: journal
 ---
 
 Data visualization of my tobacco use.
 Updated every couple of days.
 
-> First published on 2020/06/012020-06-01 17:04:25 +0100
+> First published on 2020-06-01 17:04:25 +0100
 >
 > Edited:
 > - 2020-06-03 12:25:43 +0100
 > - 2020-06-03 17:42:55 +0100
+> - 2020-06-05 07:53:58 +0100
 
 I started the day, by contemplating the need to change some habits. The other
 day, I decided to buy some shag tobacco. To evaluate the efficiency and the
@@ -60,11 +61,12 @@ has been some year, since my last data visualization project/job.
 
 	{% assign series = site.data.cigs.series %}
 	var series = {{series | jsonify}};
+	/* bump apropriately by property name */
 	function bap(pname) {
 		return series.map(function(e) {
 			return (e[pname]? e[pname]: 0);
 		});
-	}
+	};
 
 	var smoked = {
 		label: 'Smoked',
@@ -85,6 +87,13 @@ has been some year, since my last data visualization project/job.
 		cubicInterpolationMode: 'monotone',
 		data: savg
 	};
+	var marlboro = {
+		label: 'Marlboro',
+		borderColor: 'red',
+		fill: false,
+		cubicInterpolationMode: 'monotone',
+		data: bap('marlboro')
+	};
 	var amber = {
 		label: 'Amber leaf',
 		borderColor: 'yellow',
@@ -92,33 +101,26 @@ has been some year, since my last data visualization project/job.
 		cubicInterpolationMode: 'monotone',
 		data: bap('amber')
 	};
-	var marlboro = {
-		label: 'Marlboro',
-		borderColor: 'red',
-		fill: false,
-		cubicInterpolationMode: 'monotone',
-		data: bap('marlboro')
-	}
-	var golden = {
-		label: 'Golden Virginia',
-		borderColor: 'green',
-		fill: false,
-		cubicInterpolationMode: 'monotone',
-		data: bap('golden')
-	}
 	var bummed = {
 		label: 'Bummed',
 		borderColor: 'black',
 		fill: false,
 		cubicInterpolationMode: 'monotone',
 		data: bap('bummed')
-	}
+	};
+	var golden = {
+		label: 'Golden Virginia',
+		borderColor: 'green',
+		fill: false,
+		cubicInterpolationMode: 'monotone',
+		data: bap('golden')
+	};
 
 	var chart = new Chart(ctx, {
 		type: 'line',
 		data: {
 			labels: bap('day'),
-			datasets: [smoked, avg_smoked, amber, marlboro, golden, bummed]
+			datasets: [smoked, avg_smoked, marlboro, amber, bummed, golden]
 		},
 		options
 	});
@@ -130,6 +132,8 @@ has been some year, since my last data visualization project/job.
 ## The Data:
 
 Stored in the repo in [\data/cigs.json](https://github.com/cpmachado/cpmachado.github.io/blob/master/_data/cigs.json).
+
+Also [here](/res/cigs.json).
 
 <div style="background:yellow;padding:10px">
 	<h3 style="text-align:center"> Update </h3>

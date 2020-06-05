@@ -20,11 +20,13 @@
 		},
 		{
 			"day": "06/03",
-			"smoked": 15,
-			"golden": 19
+			"smoked": 29,
+			"golden": 29
 		},
 		{
-			"day": "06/04"
+			"day": "06/04",
+			"smoked": 25,
+			"golden": 25
 		},
 		{
 			"day": "06/05"
