@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cigarette Visualization"
-date: "2020-06-05 07:53:58 +0100"
+date: "2020-06-09 01:45:03 +0100"
 category: journal
 ---
 
@@ -14,6 +14,7 @@ Updated every couple of days.
 > - 2020-06-03 12:25:43 +0100
 > - 2020-06-03 17:42:55 +0100
 > - 2020-06-05 07:53:58 +0100
+> - 2020-06-09 01:45:03 +0100
 
 I started the day, by contemplating the need to change some habits. The other
 day, I decided to buy some shag tobacco. To evaluate the efficiency and the
@@ -24,7 +25,7 @@ has been some year, since my last data visualization project/job.
 
 
 <canvas id="cigaretteViz"></canvas>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script src="/res/chart.js"></script>
 
 <script>
 	var ctx = document.getElementById('cigaretteViz').getContext('2d');
@@ -32,6 +33,9 @@ has been some year, since my last data visualization project/job.
 		title: {
 			display: true,
 			text: 'My smoking statistics'
+		},
+		legend: {
+			position: 'bottom'
 		},
 		tooltips: {
 			mode: 'index',
@@ -115,12 +119,21 @@ has been some year, since my last data visualization project/job.
 		cubicInterpolationMode: 'monotone',
 		data: bap('golden')
 	};
+	var port_red = {
+		label: 'Portuguese Red',
+		borderColor: 'pink',
+		fill: false,
+		cubicInterpolationMode: 'monotone',
+		data: bap('portuguese_red')
+	};
+
 
 	var chart = new Chart(ctx, {
 		type: 'line',
 		data: {
 			labels: bap('day'),
-			datasets: [smoked, avg_smoked, marlboro, amber, bummed, golden]
+			datasets: [smoked, avg_smoked, marlboro, amber, bummed, golden,
+			port_red]
 		},
 		options
 	});
@@ -131,7 +144,7 @@ has been some year, since my last data visualization project/job.
 
 ## The Data:
 
-Stored in the repo in [\data/cigs.json](https://github.com/cpmachado/cpmachado.github.io/blob/master/_data/cigs.json).
+Stored in the repo in [\_data/cigs.json](https://github.com/cpmachado/cpmachado.github.io/blob/master/_data/cigs.json).
 
 Also [here](/res/cigs.json).
 
@@ -140,7 +153,6 @@ Also [here](/res/cigs.json).
 	<p> Just came to update the numbers. I managed to make 57 cigarettes out of
 	a 30g <b>Amber Leaf</b> bag.</p>
 	<p>I do need to start smoking less, or leave it altogether.</p>
-	<p>Decided to gradually stop until the 16th of June</p>
+	<p>Decided to gradually stop until the 16th of June.</p>
 </div>
-
 

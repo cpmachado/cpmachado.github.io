@@ -29,16 +29,26 @@
 			"golden": 25
 		},
 		{
-			"day": "06/05"
+			"day": "06/05",
+			"smoked": 35,
+			"golden": 25,
+			"portuguese_red": 20
 		},
 		{
-			"day": "06/06"
+			"day": "06/06",
+			"smoked": 40,
+			"golden": 27,
+			"amber": 5
 		},
 		{
-			"day": "06/07"
+			"day": "06/07",
+			"smoked": 16,
+			"amber": 15
 		},
 		{
-			"day": "06/08"
+			"day": "06/08",
+			"smoked": 27,
+			"amber": 30
 		},
 		{
 			"day": "06/09"
