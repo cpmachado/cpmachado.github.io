@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cigarette Visualization"
-date: "2020-06-09 01:45:03 +0100"
+date: "2020-06-11 12:41:20 +0100"
 category: journal
 ---
 
@@ -15,6 +15,7 @@ Updated every couple of days.
 > - 2020-06-03 17:42:55 +0100
 > - 2020-06-05 07:53:58 +0100
 > - 2020-06-09 01:45:03 +0100
+> - 2020-06-11 12:41:20 +0100
 
 I started the day, by contemplating the need to change some habits. The other
 day, I decided to buy some shag tobacco. To evaluate the efficiency and the
@@ -126,6 +127,13 @@ has been some year, since my last data visualization project/job.
 		cubicInterpolationMode: 'monotone',
 		data: bap('portuguese_red')
 	};
+	var camel = {
+		label: 'Camel',
+		borderColor: 'orange',
+		fill: false,
+		cubicInterpolationMode: 'monotone',
+		data: bap('camel')
+	};
 
 
 	var chart = new Chart(ctx, {
@@ -133,7 +141,7 @@ has been some year, since my last data visualization project/job.
 		data: {
 			labels: bap('day'),
 			datasets: [smoked, avg_smoked, marlboro, amber, bummed, golden,
-			port_red]
+			port_red, camel]
 		},
 		options
 	});
@@ -148,7 +156,7 @@ Stored in the repo in [\_data/cigs.json](https://github.com/cpmachado/cpmachado.
 
 Also [here](/res/cigs.json).
 
-<div style="background:yellow;padding:10px">
+<div style="background:grey;padding:10px">
 	<h3 style="text-align:center"> Update </h3>
 	<p> Just came to update the numbers. I managed to make 57 cigarettes out of
 	a 30g <b>Amber Leaf</b> bag.</p>
@@ -156,3 +164,73 @@ Also [here](/res/cigs.json).
 	<p>Decided to gradually stop until the 16th of June.</p>
 </div>
 
+<div style="background:yellow;padding:10px">
+	<h3 style="text-align:center"> Last Update </h3>
+	<p> Managed to make 112 cigarettes out of
+	a 50g <b>Golden Virginia</b> bag.</p>
+	<p> Managed to make 103 cigarettes out of
+	a 50g <b>Amber Leaf</b> bag.</p>
+	<p> Going to post a table below the comments, analysing superficially the
+	consumption efficiency</p>
+</div>
+
+<div style="padding:10px">
+	<table style="background:white;text-align:center">
+		<tr>
+			<th>
+				Tobacco
+			</th>
+			<th>
+				Quantity(g)
+			</th>
+			<th>
+				Cigarrete
+			</th>
+			<th>
+				Tobacco per cigarrete(g)
+			</th>
+		</tr>
+		<tr>
+			<td>
+				Amber Leaf
+			</td>
+			<td>
+				30g
+			</td>
+			<td>
+				57
+			</td>
+			<td>
+				0.526 g
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Golden Virginia
+			</td>
+			<td>
+				50g
+			</td>
+			<td>
+				112
+			</td>
+			<td>
+				0.446 g
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amber Leaf
+			</td>
+			<td>
+				50g
+			</td>
+			<td>
+				103
+			</td>
+			<td>
+				0.485 g
+			</td>
+		</tr>
+	</table>
+</div>
