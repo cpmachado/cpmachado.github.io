@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cigarette Visualization"
-date: "2020-06-11 12:41:20 +0100"
+date: "2020-06-11 22:29:41 +0100"
 category: journal
 ---
 
@@ -16,6 +16,7 @@ Updated every couple of days.
 > - 2020-06-05 07:53:58 +0100
 > - 2020-06-09 01:45:03 +0100
 > - 2020-06-11 12:41:20 +0100
+> - 2020-06-11 22:29:41 +0100
 
 I started the day, by contemplating the need to change some habits. The other
 day, I decided to buy some shag tobacco. To evaluate the efficiency and the
@@ -170,8 +171,7 @@ Also [here](/res/cigs.json).
 	a 50g <b>Golden Virginia</b> bag.</p>
 	<p> Managed to make 103 cigarettes out of
 	a 50g <b>Amber Leaf</b> bag.</p>
-	<p> Going to post a table below the comments, analysing superficially the
-	consumption efficiency</p>
+	<p> Going to post a table below.</p>
 </div>
 
 <div style="padding:10px">

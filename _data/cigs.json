@@ -63,8 +63,9 @@
 		},
 		{
 			"day": "06/11",
-			"smoked": 4,
-			"amber": 13
+			"smoked": 21,
+			"amber": 13,
+			"camel": 22
 		},
 		{
 			"day": "06/12"
