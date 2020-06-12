@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cigarette Visualization"
-date: "2020-06-11 22:29:41 +0100"
+date: "2020-06-12 17:01:23 +0100"
 category: journal
 ---
 
@@ -17,6 +17,7 @@ Updated every couple of days.
 > - 2020-06-09 01:45:03 +0100
 > - 2020-06-11 12:41:20 +0100
 > - 2020-06-11 22:29:41 +0100
+> - 2020-06-12 17:01:23 +0100
 
 I started the day, by contemplating the need to change some habits. The other
 day, I decided to buy some shag tobacco. To evaluate the efficiency and the
@@ -135,6 +136,13 @@ has been some year, since my last data visualization project/job.
 		cubicInterpolationMode: 'monotone',
 		data: bap('camel')
 	};
+	var port_blue = {
+		label: 'Portuguese Oceano',
+		borderColor: 'blue',
+		fill: false,
+		cubicInterpolationMode: 'monotone',
+		data: bap('portuguese_blue')
+	};
 
 
 	var chart = new Chart(ctx, {
@@ -142,7 +150,7 @@ has been some year, since my last data visualization project/job.
 		data: {
 			labels: bap('day'),
 			datasets: [smoked, avg_smoked, marlboro, amber, bummed, golden,
-			port_red, camel]
+			port_red, camel, port_blue]
 		},
 		options
 	});

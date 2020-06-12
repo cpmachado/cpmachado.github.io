@@ -68,7 +68,9 @@
 			"camel": 22
 		},
 		{
-			"day": "06/12"
+			"day": "06/12",
+			"smoked": 16,
+			"portuguese_blue": 20
 		},
 		{
 			"day": "06/13"
