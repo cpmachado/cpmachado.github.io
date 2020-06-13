@@ -147,6 +147,7 @@ has been some year, since my last data visualization project/job.
 	var winston = {
 		label: 'Winston Classic 100s',
 		borderColor: 'red',
+		borderDash: [5, 5],
 		fill: false,
 		cubicInterpolationMode: 'monotone',
 		data: bap('winston')
