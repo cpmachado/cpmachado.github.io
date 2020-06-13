@@ -69,11 +69,13 @@
 		},
 		{
 			"day": "06/12",
-			"smoked": 16,
+			"smoked": 36,
 			"portuguese_blue": 20
 		},
 		{
-			"day": "06/13"
+			"day": "06/13",
+			"smoked": 4,
+			"winston": 20
 		},
 		{
 			"day": "06/14"
