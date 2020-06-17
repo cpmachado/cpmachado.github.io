@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cigarette Visualization"
-date: "2020-06-13 13:27:12 +0100"
+date: "2020-06-17 11:34:19 +0100"
 category: journal
 ---
 
@@ -19,6 +19,7 @@ Updated every couple of days.
 > - 2020-06-11 22:29:41 +0100
 > - 2020-06-12 17:01:23 +0100
 > - 2020-06-13 13:27:12 +0100
+> - 2020-06-17 11:34:19 +0100
 
 I started the day, by contemplating the need to change some habits. The other
 day, I decided to buy some shag tobacco. To evaluate the efficiency and the
@@ -152,6 +153,14 @@ has been some year, since my last data visualization project/job.
 		cubicInterpolationMode: 'monotone',
 		data: bap('winston')
 	};
+	var lucky = {
+		label: 'Lucky Strike',
+		borderColor: 'black',
+		borderDash: [5, 5],
+		fill: false,
+		cubicInterpolationMode: 'monotone',
+		data: bap('lucky')
+	};
 
 
 	var chart = new Chart(ctx, {
@@ -159,7 +168,7 @@ has been some year, since my last data visualization project/job.
 		data: {
 			labels: bap('day'),
 			datasets: [smoked, avg_smoked, marlboro, amber, bummed, golden,
-			port_red, camel, port_blue, winston]
+			           port_red, camel, port_blue, winston, lucky]
 		},
 		options
 	});
@@ -175,20 +184,29 @@ Stored in the repo in [\_data/cigs.json](https://github.com/cpmachado/cpmachado.
 Also [here](/res/cigs.json).
 
 <div style="background:grey;padding:10px">
-	<h3 style="text-align:center"> Update </h3>
+	<h3 style="text-align:center"> 1st Update </h3>
 	<p> Just came to update the numbers. I managed to make 57 cigarettes out of
 	a 30g <b>Amber Leaf</b> bag.</p>
 	<p>I do need to start smoking less, or leave it altogether.</p>
 	<p>Decided to gradually stop until the 16th of June.</p>
 </div>
 
-<div style="background:yellow;padding:10px">
-	<h3 style="text-align:center"> Last Update </h3>
+<div style="background:grey;padding:10px">
+	<h3 style="text-align:center"> 2nd Update </h3>
 	<p> Managed to make 112 cigarettes out of
 	a 50g <b>Golden Virginia</b> bag.</p>
 	<p> Managed to make 103 cigarettes out of
 	a 50g <b>Amber Leaf</b> bag.</p>
 	<p> Going to post a table below.</p>
+</div>
+
+<div style="background:yellow;padding:10px">
+	<h3 style="text-align:center"> Last Update </h3>
+	<p> I absolutely failed my goals, and this is the last update I'm doing in
+	this post.</p>
+	<p> Some sort of parasitic nihilist attitude is taking hold of me, as I
+	face this addiction. There's no use in fighting against it. It's not the
+	time for that. </p>
 </div>
 
 <div style="padding:10px">
