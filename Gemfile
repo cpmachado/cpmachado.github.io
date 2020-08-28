@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
-gem "minima", "~> 2.5.0"
+gem "jekyll", "~> 3.8.7"
+
+gem "no-style-please"
 
 gem "github-pages", group: :jekyll_plugins
 

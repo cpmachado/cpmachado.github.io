@@ -1,15 +1,9 @@
-#
-# Welcome to Jekyll!
-#
-
-title: Carlos' notebook
+title: cpmachado's notebook
 email: cpmachado@protonmail.com
 description: >-
     Meditations about life, software, mathematics and little more.
-    All of these from a crazy backend developer, who used to be a writer, and
-    somewhat of a musician.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://cpmachado.github.io"
 twitter_username: cpm_cfy
 github_username:  cpmachado
 
@@ -22,13 +16,15 @@ defaults:
     values:
       permalink: "/:categories/:title"
 
-header_pages:
-  - about.md
-  - contact.md
-
-# Build settings
 markdown: kramdown
-theme: minima
+theme: no-style-please
+
+favicon: ./images/favicon.png
+
+theme_config:
+    back_home_text: "127.0.0.1"
+    show_description: true
+
 plugins:
   - jekyll-feed
 

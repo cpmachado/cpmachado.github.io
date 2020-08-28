@@ -1,0 +1,9 @@
+{% if site.posts.size > 0 %}
+  <ul>
+    {% for category in site.categories %}
+      <li>
+        <a href="{{category | first}}.html">{{ category | first }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

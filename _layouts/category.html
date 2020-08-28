@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<header>
+  <h1> <a href="{{site.url}}"> {{ site.title }} </a></h1>
+</header>
+
+<h2> {{ page.title }} </h2>
+
+{{ content }}
+
+<p> List of posts: </p>
+
+<ul>
+  {% for post in site.categories[page.category] %}
+    <li>
+      {{ post.date | date: site.theme_config.date_format }}
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title | downcase }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

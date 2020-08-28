@@ -1,34 +1,24 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about
 ---
 
 
-### And now....
+### And now...
 ![ for Something completely different][different]
 
 
-#### My Github Accounts
-
-<https://github.com/cfy>
-
-My most recent:
-
-<https://github.com/cpmachado>
-
-#### My NPM account
-
-<https://www.npmjs.com/~cfy>
+- My Github Accounts
+	+ <https://github.com/cfy>
+	+ <https://github.com/cpmachado>
+- Organizations I contribute too:
+	+ <https://github.com/alenquerpower>
+	+ <https://github.com/scaccivox>
+- npm account
+	+ <https://www.npmjs.com/~cfy>
+- [Biography Summarized]
 
 
-
-
-[different]: images/completely-different.gif
-
-
-
-
-
-
-
+[different]: /images/completely-different.gif
+[Biography Summarized]: /bio
