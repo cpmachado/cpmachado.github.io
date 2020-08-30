@@ -32,7 +32,7 @@ The highlights:
 	+ University should be about sharing and earning knowledge.
 	+ Unsatisfied with the status quo, started a now defunct movement called
 	  ***Academic Assembly***.
-- Under the guidance of great minds, I built a solid scientific and
+- Under the guidance of great people, I built a solid scientific and
   engineering background.
   + You know who you are, probably.
 - Started working, and experiencing life as an adult.
@@ -43,6 +43,98 @@ The highlights:
 - Love lost at a cost, give something that won't get lost.
 - The usual.
 
+## 2015 - 2018
+
+### Changing University
+
+- Institute: Instituto Superior Técnico
+- University: Universidade Lisboa([IST-UL])
+- Degree: IM in Electrical and Computer Engineering
+- Status: **Incomplete** (ongoing)
+
+#### Why the change?
+
+Mostly due to family problems, my responsibilities doubled. Being near my
+home, in Lisbon was a major factor. After some past bad experiences, went on
+to look for something better.
+
+#### Conclusion
+
+My workload consistently decreased, due to a serious attempt to not get
+overloaded. My studies basically grew to a stall.
+
+#### Highlights
+
+The highlights:
+
+- Back to the old neighbourhood, which was a good experience.
+- New experiences, with new companies.
+- Workload dropped, but number of freelances increased, due to a great surge
+  in MVP for start up like companies.
+- More stable contracts with regular clients.
+- Some growing pains, and a lot of maturing.
+
+
+## 2018 - 2019
+
+### Dropping out
+
+Decided to stop for a year, over consistent failure in courses. It was taking
+a moral toll. My idea at the time was for a longer hiatus; work in a stable
+office environment; and create infrastructure to grow personally.
+
+
+### Hoist Group
+
+Went on to work for Hoist Group. It was a great experience, but the routine
+was taking a toll on me, compounded with several other personal problems.
+I found myself overwhelmed.
+
+Short Description:
+
+- Function: Full Stack Node.Js Developer
+- Product: Hoist Dashboard
+	+ <https://www.hoistgroup.com/hospitality-solutions/hoist-dashboard/>
+
+My work consisted of:
+
+- API development
+- Infrastructure tooling
+- 3rd party integration
+- Widget Development
+- Development Support(both internal and external)
+
+#### Highlights
+
+The highlights:
+
+- Updated myself in technology with the proper market.
+- Learned from my errors, and to work in a proper group.
+
+
+## 2019 - 2020
+
+### Going back to IST-UL
+
+I felt there was need for a couple months of rest. After being restored to my
+former self, I spent another month meditating about the state of affairs, and
+decided to return to university.
+
+
+#### Highlights
+
+The highlights:
+
+- Adaptation issues, this first year was a failure.
+- COVID-19 outbreak.
+- Crisis getting freelance work.
+- Moved out of my parents, to live with my girlfriend.
+
+### Conclusion
+
+![FREEDOM][FREEDOM]
+
 
 [FCT-UNL]: https://fct.unl.pt
 [IST-UL]: https://tecnico.ulisboa.pt
+[FREEDOM]: /images/freedom.gif
