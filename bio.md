@@ -4,7 +4,8 @@ title: Biography Summarized
 permalink: /bio
 ---
 
-My life can be understood in blocks of three years.
+My life as a developer starts in 2012.
+
 
 ## 2012 - 2015
 
@@ -13,7 +14,7 @@ My life can be understood in blocks of three years.
 
 - Institute: Faculdade de Ciências e Tecnologia
 - University: Universidade Nova de Lisboa([FCT-UNL])
-- Degree: IM in Electrical and Computer Engineering
+- Degree: Integrated Msc in Electrical and Computer Engineering
 - Status: **Incomplete** (Transferred to [IST-UL])
 
 #### Why Electrical and Computer Engineering?
@@ -40,8 +41,6 @@ The highlights:
 	+ Did a couple of internships, focusing mostly in Java and Node.Js.
 	+ Had an horrible early working experience, that made me think about the
 	  honesty of corporate engineering.
-- Love lost at a cost, give something that won't get lost.
-- The usual.
 
 ## 2015 - 2018
 
@@ -49,7 +48,7 @@ The highlights:
 
 - Institute: Instituto Superior Técnico
 - University: Universidade Lisboa([IST-UL])
-- Degree: IM in Electrical and Computer Engineering
+- Degree: Integrated Msc in Electrical and Computer Engineering
 - Status: **Incomplete** (ongoing)
 
 #### Why the change?
@@ -70,7 +69,7 @@ The highlights:
 - Back to the old neighbourhood, which was a good experience.
 - New experiences, with new companies.
 - Workload dropped, but number of freelances increased, due to a great surge
-  in MVP for start up like companies.
+  in the MVP market for start up like companies.
 - More stable contracts with regular clients.
 - Some growing pains, and a lot of maturing.
 
@@ -112,7 +111,7 @@ The highlights:
 - Learned from my errors, and to work in a proper group.
 
 
-## 2019 - 2020
+## 2019 - Current
 
 ### Going back to IST-UL
 
@@ -128,7 +127,6 @@ The highlights:
 - Adaptation issues, this first year was a failure.
 - COVID-19 outbreak.
 - Crisis getting freelance work.
-- Moved out of my parents, to live with my girlfriend.
 
 ### Conclusion
 
