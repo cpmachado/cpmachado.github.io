@@ -17,7 +17,7 @@ layout: default
     <li>
       {{ post.date | date: site.theme_config.date_format }}
       <a href="{{ post.url | relative_url }}">
-        {{ post.title | downcase }}
+        {{ post.title}}
       </a>
     </li>
   {% endfor %}

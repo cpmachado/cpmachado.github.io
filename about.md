@@ -17,6 +17,8 @@ permalink: /about
 	+ <https://github.com/scaccivox>
 - npm account
 	+ <https://www.npmjs.com/~cfy>
+- Student website
+	+ <http://web.tecnico.ulisboa.pt/~ist426160/>
 - [Biography Summarized]
 
 
