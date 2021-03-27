@@ -9,6 +9,9 @@ permalink: /about
 ![ for Something completely different][different]
 
 
+Currently working as NodeJS - NestJs/Java - Spring Backend Developer at Adidas AG.
+
+
 - My Github Accounts
 	+ <https://github.com/cfy>
 	+ <https://github.com/cpmachado>
