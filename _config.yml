@@ -1,0 +1,33 @@
+title: cpmachado's notebook
+email: cpmachado@protonmail.com
+description: >-
+    Meditations about life, software, mathematics and little more.
+baseurl: ""
+url: "https://cpmachado.github.io"
+twitter_username: cpm_cfy
+github_username:  cpmachado
+
+show_excerpts: true
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      permalink: "/:categories/:title"
+
+markdown: kramdown
+#theme: no-style-please
+remote_theme: riggraz/no-style-please
+favicon: ./images/favicon.png
+
+theme_config:
+    back_home_text: "127.0.0.1"
+    show_description: true
+
+plugins:
+  - jekyll-feed
+
+feed:
+  categories:
+    - journal

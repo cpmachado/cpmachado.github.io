@@ -1,0 +1,28 @@
+entries:
+  - title: 127.0.0.1
+    url: false
+    entries:
+      - title: github
+        url: https://github.com/cpmachado
+
+  - title: Categories
+    category_list: true
+    url: false
+    entries: true
+
+  - title: Latest Posts
+    post_list: true
+    url: false
+    entries: true
+
+  - title: about
+    url: about
+
+  - title: small biography
+    url: bio
+
+  - title: contact
+    url: contact
+
+  - title: rss
+    url: feed.xml
