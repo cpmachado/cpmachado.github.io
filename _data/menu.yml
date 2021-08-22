@@ -5,15 +5,18 @@ entries:
       - title: github
         url: https://github.com/cpmachado
 
-  - title: Categories
-    category_list: true
-    url: false
-    entries: true
+  - title: All posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
 
-  - title: Latest Posts
-    post_list: true
-    url: false
-    entries: true
+  - title: Categories
+    url: categories
+
+  - title: rss
+    url: feed.xml
 
   - title: about
     url: about
@@ -24,5 +27,3 @@ entries:
   - title: contact
     url: contact
 
-  - title: rss
-    url: feed.xml

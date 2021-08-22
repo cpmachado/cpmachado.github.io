@@ -22,8 +22,10 @@ remote_theme: riggraz/no-style-please
 favicon: ./images/favicon.png
 
 theme_config:
-    back_home_text: "127.0.0.1"
-    show_description: true
+  appearance: "auto"
+  back_home_text: "127.0.0.1"
+  show_description: true
+
 
 plugins:
   - jekyll-feed

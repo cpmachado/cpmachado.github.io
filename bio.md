@@ -42,6 +42,8 @@ The highlights:
 	+ Had an horrible early working experience, that made me think about the
 	  honesty of corporate engineering.
 
+---
+
 ## 2015 - 2018
 
 ### Changing University
@@ -73,6 +75,8 @@ The highlights:
 - More stable contracts with regular clients.
 - Some growing pains, and a lot of maturing.
 
+
+---
 
 ## 2018 - 2019
 
@@ -110,6 +114,7 @@ The highlights:
 - Updated myself in technology with the proper market.
 - Learned from my errors, and to work in a proper group.
 
+---
 
 ## 2019 - Current
 
@@ -126,9 +131,14 @@ Currently, with all the chaos of the COVID-19 era, my studies are a bit on hold.
 
 A beam of hope, amidst the chaos of 2020.
 
-#### September 2020 - December 2020: Fullstack Developer at [BNP Paribas Securities Services]
+---
 
-Worked in a migration of an internal tool of [BNP Paribas Securities Services].
+#### September 2020 - December 2020
+#### Fullstack Developer at [BNP Paribas Securities Services]
+
+Worked in a migration of an internal tool for
+
+[BNP Paribas Securities Services].
 
 My work consisted:
 - Setting up viable development environment.(It was the hardest part)
@@ -136,6 +146,8 @@ My work consisted:
 - Migrating these applications to a Angular SPA.
 
 Technologies used: Node.JS and Angular
+
+---
 
 #### January 2021 - Current: Senior Backend Engineer at [Adidas]
 
@@ -158,6 +170,8 @@ The highlights:
 - COVID-19 outbreak.
 - Crisis getting freelance work.
 - Finding [Bold by Devoteam]
+
+---
 
 ### Conclusion
 
