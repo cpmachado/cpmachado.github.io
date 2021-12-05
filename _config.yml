@@ -33,3 +33,5 @@ plugins:
 feed:
   categories:
     - journal
+    - chess
+    - dev
