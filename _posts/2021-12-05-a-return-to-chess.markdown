@@ -2,10 +2,17 @@
 layout: post
 title: "A return to chess"
 date: "2021-12-05 11:29:08 +0000"
+author: cpmachado
 category: chess
 ---
 
+TL&DR: A plan to return to play chess properly, after a year and a half of "sacking" pieces.
 
+EDITED:
+- Tue, 07 Dec 2021 14:01:31 +0000
+  + Added metadata and summary
+
+---
 
 > **In writing, you must kill your darlings.**
 >

@@ -2,7 +2,16 @@
 layout: post
 title: "What is happening to my code?"
 date: "2021-12-05 12:18:09 +0000"
+author: cpmachado
 category: dev
+---
+
+TL&DR: Rambling about how my code quality as been consistently decreasing.
+
+EDITED:
+- Tue, 07 Dec 2021 14:01:31 +0000
+  + Added metadata and summary
+
 ---
 
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.

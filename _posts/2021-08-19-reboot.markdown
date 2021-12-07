@@ -2,7 +2,16 @@
 layout: post
 title: "Reboot"
 date: "2021-08-19 18:16:09 +0100"
+author: cpmachado
 category: journal
+---
+
+TL&DR: I'm back into spamming here, but spent 3 months without doing it again.
+
+EDITED:
+- Tue, 07 Dec 2021 14:01:31 +0000
+  + Added metadata and summary
+
 ---
 
 Rebooting my blog, as my old content was mostly the ramblings on the tales of 0x3E9 bugs that is my
