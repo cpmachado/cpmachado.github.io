@@ -9,7 +9,7 @@ category: dev
 TL&DR: Rambling about how my code quality as been consistently decreasing.
 
 EDITED:
-- Tue, 07 Dec 2021 14:01:31 +0000
+- 2021-12-07 14:01:31 +0000
   + Added metadata and summary
 
 ---

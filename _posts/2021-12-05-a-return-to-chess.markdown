@@ -9,7 +9,7 @@ category: chess
 TL&DR: A plan to return to play chess properly, after a year and a half of "sacking" pieces.
 
 EDITED:
-- Tue, 07 Dec 2021 14:01:31 +0000
+- 2021-12-07 14:01:31 +0000
   + Added metadata and summary
 
 ---

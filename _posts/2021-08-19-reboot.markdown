@@ -9,7 +9,7 @@ category: journal
 TL&DR: I'm back into spamming here, but spent 3 months without doing it again.
 
 EDITED:
-- Tue, 07 Dec 2021 14:01:31 +0000
+- 2021-12-07 14:01:31 +0000
   + Added metadata and summary
 
 ---
