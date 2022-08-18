@@ -5,6 +5,14 @@ entries:
       - title: github
         url: https://github.com/cpmachado
 
+  - title: Chess posts
+    post_list:
+      category: chess
+      limit: 5
+      show_more: true
+      show_more_text: See chess archive...
+      show_more_url: chess.html
+
   - title: All posts
     post_list:
       limit: 5
