@@ -149,7 +149,7 @@ Technologies used: Node.JS and Angular
 
 ---
 
-#### January 2021 - Current: Senior Backend Engineer at [Adidas]
+#### January 2021 - October 2021: Senior Backend Engineer at [Adidas]
 
 Working in the Backend infrastructure of Adidas' Marketing platform.
 

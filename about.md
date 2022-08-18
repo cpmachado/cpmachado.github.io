@@ -9,7 +9,7 @@ permalink: /about
 ![ for Something completely different][different]
 
 
-Currently working as NodeJS - NestJs/Java - Spring Backend Developer at Adidas AG.
+Currently working as Fullstack NodeJS/ReactJS at Engie.
 
 
 - My Github Accounts
