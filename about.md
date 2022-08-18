@@ -13,15 +13,15 @@ Currently working as Fullstack NodeJS/ReactJS at Engie.
 
 
 - My Github Accounts
-	+ <https://github.com/cfy>
 	+ <https://github.com/cpmachado>
+	+ <https://github.com/cfy>
 - Organizations I contribute too:
 	+ <https://github.com/alenquerpower>
 	+ <https://github.com/scaccivox>
+- Chess.com
+	+ <https://www.chess.com/stats/overview/cpmachado>
 - npm account
 	+ <https://www.npmjs.com/~cfy>
-- Student website
-	+ <http://web.tecnico.ulisboa.pt/~ist426160/>
 - [Biography Summarized]
 
 
