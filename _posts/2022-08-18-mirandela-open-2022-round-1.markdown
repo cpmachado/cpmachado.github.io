@@ -24,7 +24,7 @@ Dynamic global results, and specific to round 1.
 
 ## The Game
 
-> The games can be found [here]({{site.url}}/res/mirandela-open.pgn)
+> The games can be found [here]({{site.url}}/res/mirandela-open-2022.pgn)
 
 We played a Berlin Defense, which I wasn't too scared of, as my analysis of
 Carlsen, Anand, and Kramnik games went deep, some couple years ago. We ended

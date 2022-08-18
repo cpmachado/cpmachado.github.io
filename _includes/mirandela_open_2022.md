@@ -15,9 +15,9 @@
 
   {% if round.result == 1 %}
     {% assign win = win | plus: 1 %}
-  {% elsif round.result == -1 %}
+  {% elsif round.result == 0 %}
     {% assign loss = loss | plus: 1 %}
-  {% else %}
+  {% elsif round.result == 0.5 %}
     {% assign draw = draw | plus: 1 %}
   {% endif %}
 

@@ -1,10 +1,10 @@
 player:
-  name: Machado, Carlos Augusto G
+  name: "Machado, Carlos Augusto G"
   rating: 1357
   fide_id: 1961039
 rounds:
   - number: 1
-    result: -1
+    result: 0
     colour: "white"
     opponent_colour: "black"
     opponent:
@@ -15,3 +15,13 @@ rounds:
       observations: "2nd board for Brazillian Female 2022 Olympiad team"
     rating_change: -1.6
     date: "2022-08-17 20:30"
+  - number: 2
+    result: 0
+    colour: "black"
+    opponent_colour: "white"
+    opponent:
+      name: "Sarabando, Rodrigo Andias"
+      rating: 1915
+      fide_id: 1950010
+    rating_change: -1.6
+    date: "2022-08-18 14:30"

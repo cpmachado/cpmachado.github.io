@@ -1,0 +1,37 @@
+[Event "Mirandela Open 2022"]
+[Site "Grande Hotel Dom Dinis, Av. Nossa Sra. do Amparo, 5370-210, in Mirandela"]
+[Date "2022.08.17"]
+[Round "1"]
+[White "Machado, Carlos Augusto G"]
+[Black "Librelato, Kathie Goulart"]
+[Result "0-1"]
+[WhiteElo "1357"]
+[BlackElo "2260"]
+[ECO "C65h"]
+[EventDate "2022.08.17"]
+[Annotator "opBlunder 1 (black)"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.O-O Bd7 6.Re1 g6 7.d4 exd4 8.Nxd4 
+Nxd4 9.Bxd7+ Nxd7 10.Qxd4 Qf6 11.Qb4 Bg7 12.Qxb7 O-O 13.Nc3 Ne5 14.Nd5 Qh4
+15.h3 Rae8 16.Bd2 c6 17.Nc3 Rb8 18.Qa6 Rxb2 19.f4 Nf3+ 20.gxf3 Qg3+ 21.Kh1
+Qxh3+ 22.Kg1 Qg3+ 23.Kh1 Qxf3+ 24.Kh2 Qf2+ 25.Kh3 Qxd2 0-1
+
+[Event "Mirandela Open 2022"]
+[Site "Grande Hotel Dom Dinis, Av. Nossa Sra. do Amparo, 5370-210, in Mirandela"]
+[Date "2022.08.18"]
+[Round "2"]
+[White "Sarabando, Rodrigo Andias"]
+[Black "Machado, Carlos Augusto G"]
+[Result "1-0"]
+[WhiteElo "1915"]
+[BlackElo "1357"]
+[ECO "D96"]
+[EventDate "2022.08.17"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 d5 4.Nc3 Bg7 5.Qb3 c6 6.cxd5 cxd5 7.Bg5 Ne4 8.Qxd5 
+Qxd5 9.Nxd5 Nxg5 10.Nxg5 Na6 11.e3 Be6 12.Nxe6 fxe6 13.Bxa6 exd5 14.Bxb7 
+Rd8 15.Ke2 O-O 16.Rhc1 e5 17.Rd1 Rf7 18.Bc6 Rc7 19.Rac1 Kf8 20.b4 a6 21.a4
+exd4 22.exd4 Rd6 23.b5 Re7+ 24.Kd3 Re4 25.Kc3 a5 26.Rd3 Bh6 27.Rc2 Re1 28.
+Kb2 Rde6 29.b6 R6e2 30.Rf3+ Kg7 31.b7 Rxc2+ 32.Kxc2 Re2+ 33.Kc3 Re1 34.
+b8=Q Rc1+ 35.Kb2 1-0
+

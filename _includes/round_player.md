@@ -7,7 +7,7 @@
 > {% if player.title %} **{{ player.title }}** {% endif %}
 > {{ player.name }} ({{ player.rating}})
 >
-> **Fide ID:** [{{ player.fide_id }}]
+> {% if player.fide_id %} **Fide ID:** [{{ player.fide_id }}] {% endif %}
 >
 > {% if player.observations %} Obs: ***{{ player.observations }}*** {% endif %}
 >
