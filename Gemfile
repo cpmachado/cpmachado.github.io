@@ -1,12 +1,12 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "~> 3.9"
 gem "webrick"
 
 gem "no-style-please"
 
-gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.15"
+  gem "github-pages", "~> 223"
 end
