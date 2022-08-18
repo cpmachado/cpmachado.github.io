@@ -22,7 +22,7 @@ remote_theme: riggraz/no-style-please
 favicon: ./images/favicon.png
 
 theme_config:
-  appearance: "auto"
+  appearance: "dark"
   back_home_text: "127.0.0.1"
   show_description: true
 
