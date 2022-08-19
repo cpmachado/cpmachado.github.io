@@ -25,3 +25,17 @@ rounds:
       fide_id: 1950010
     rating_change: -1.6
     date: "2022-08-18 14:30"
+  - number: 3
+    result: 0.5
+    opponent:
+      name: "Bye"
+      observations: "Removed due to sickness"
+    rating_change: 0
+    date: "2022-08-18 20:00"
+  - number: 4
+    result: 0
+    opponent:
+      name: "Missed"
+      obs: "Removed due to sickness"
+    rating_change: 0
+    date: "2022-08-18 15:00"

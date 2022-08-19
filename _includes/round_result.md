@@ -3,9 +3,9 @@
 {% assign result = include.round.result %}
 {% assign rating_change = include.round.rating_change %}
 {% assign player = include.player %}
-{% assign opponent = include.round.opponent %}
+{% assign opponent = include.round.opponent | default: null %}
 {% assign player_colour = include.round.colour %}
-{% assign opponent_colour = include.round.opponent_colour %}
+{% assign opponent_colour = include.round.opponent_colour | null %}
 
 > **Round {{ round_number }}**
 >

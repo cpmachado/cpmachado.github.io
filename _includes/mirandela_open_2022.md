@@ -3,7 +3,7 @@
 {% assign win = 0 %}
 {% assign loss = 0 %}
 {% assign draw = 0 %}
-{% assign round_number = include.round_number %}
+{% assign round_number = include.round_number | default: -1 %}
 {% assign the_round = null %}
 {% assign rating_change = 0 %}
 
