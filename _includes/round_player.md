@@ -11,6 +11,6 @@
 >
 > {% if player.observations %} Obs: ***{{ player.observations }}*** {% endif %}
 >
-> Playing as: {{ colour }}
+> {% if colour %} Playing as: {{ colour }} {% endif %}
 
 [{{ player.fide_id }}]: https://ratings.fide.com/profile/{{ player.fide_id }}

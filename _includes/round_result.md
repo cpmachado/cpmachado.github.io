@@ -14,4 +14,5 @@
 > **Result:** {{ result }}
 >
 > **Rating Change:** {{ rating_change }}
+
 {% include round_player.md player=opponent colour=opponent_colour is_opponent=true %}
