@@ -35,3 +35,40 @@ exd4 22.exd4 Rd6 23.b5 Re7+ 24.Kd3 Re4 25.Kc3 a5 26.Rd3 Bh6 27.Rc2 Re1 28.
 Kb2 Rde6 29.b6 R6e2 30.Rf3+ Kg7 31.b7 Rxc2+ 32.Kxc2 Re2+ 33.Kc3 Re1 34.
 b8=Q Rc1+ 35.Kb2 1-0
 
+[Event "Mirandela Open 2022"]
+[Site "Grande Hotel Dom Dinis, Av. Nossa Sra. do Amparo, 5370-210, in Mirandela"]
+[Date "2022.08.20"]
+[Round "5"]
+[White "Machado, Carlos Augusto G"]
+[Black "Santos, Francisco A A P"]
+[Result "1-0"]
+[WhiteElo "1357"]
+[BlackElo "1200"]
+[ECO "B12v"]
+[EventDate "2022.08.17"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.Nf3 Nd7 6.Bd3 Bxd3 7.Qxd3 Ne7 8.Be3 
+Nf5 9.O-O-O a6 10.g4 Nxe3 11.fxe3 c5 12.h4 c4 13.Qe2 Bb4 14.e4 Bxc3 15.
+bxc3 Qa5 16.Kd2 Nb6 17.exd5 Nxd5 18.Qxc4 O-O 19.Ng5 Rac8 20.Qd3 g6 21.Ne4 
+Kg7 22.g5 Rfd8 23.h5 Nf4 24.Qf3 Rxd4+ 25.Kc1 Qa3+ 26.Kb1 Ra4 27.h6+ Kf8 
+28.Qxf4 Qxa2+ 29.Kc1 Qc4 30.Rd7 1-0
+
+[Event "Mirandela Open 2022"]
+[Site "Grande Hotel Dom Dinis, Av. Nossa Sra. do Amparo, 5370-210, in Mirandela"]
+[Date "2022.08.20"]
+[Round "6"]
+[White "Alfonso Ruisanchez, Laritza"]
+[Black "Machado, Carlos Augusto G"]
+[Result "1-0"]
+[WhiteElo "2085"]
+[BlackElo "1357"]
+[ECO "B12o"]
+[EventDate "2022.08.20"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 e6 6.Ne2 c5 7.c3 Nc6 8.a3 Qb6 
+9.O-O cxd4 10.cxd4 Nge7 11.b4 Ng6 12.Nbc3 a6 13.Be3 Be7 14.g3 O-O 15.h4 
+Qd8 16.h5 Ngxe5 17.dxe5 Nxe5 18.Qd1 Bd6 19.Kg2 Nc4 20.Bc5 Bxc5 21.bxc5 Qg5
+22.Nf4 Rad8 23.Rh1 d4 24.Ne4 Qe5 25.Qf3 f5 26.Ng5 Nd2 27.Qd3 Ne4 28.Rae1 
+Qf6 29.Ngxe6 Rfe8 30.Nxd8 Qxd8 31.f3 g5 32.Qc4+ Kh8 33.Nd5 Nd2 34.Qxd4+ 
+1-0
+
