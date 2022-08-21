@@ -10,6 +10,10 @@ TL&DR: My return has been ridden with issues, decided to go to
 and lost the first game for the same reasons as always. Talking about the
 experience
 
+EDITED:
+- 2022-08-21 23:44:04 +0100
+  + Added chess board
+
 ---
 
 > **Experience is merely the name men gave to their mistakes.**
@@ -24,7 +28,9 @@ Dynamic global results, and specific to round 1.
 
 ## The Game
 
-> The games can be found [here]({{site.url}}/res/mirandela-open-2022.pgn)
+{% include lichess_embed.html game="zx0je5Y8" %}
+
+> All games can be found [here]({{site.url}}/res/mirandela-open-2022.pgn)
 
 We played a Berlin Defense, which I wasn't too scared of, as my analysis of
 Carlsen, Anand, and Kramnik games went deep, some couple years ago. We ended

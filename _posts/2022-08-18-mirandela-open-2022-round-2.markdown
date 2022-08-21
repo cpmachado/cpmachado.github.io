@@ -9,6 +9,10 @@ TL&DR: The second round of the **Mirandela Open 2022** went horribly. Beyond
 reason, and in pure emotion, failure was short of disaster. Drama for everyone,
 given and sold.
 
+EDITED:
+- 2022-08-21 23:44:04 +0100
+  + Added chess board
+
 ---
 
 > **There would have been a time for such a word.**
@@ -44,7 +48,9 @@ Dynamic global results, and specific to round 2.
 
 ## The Game
 
-> The games can be found [here]({{site.url}}/res/mirandela-open-2022.pgn)
+{% include lichess_embed.html game="sB2t9NWD" %}
+
+> All games can be found [here]({{site.url}}/res/mirandela-open-2022.pgn)
 
 Another game, another loss, can't say too much about this game. As a deranged
 idiot, I went back on what I was trying to do. From move 3, I was
