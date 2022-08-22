@@ -72,3 +72,19 @@ Qd8 16.h5 Ngxe5 17.dxe5 Nxe5 18.Qd1 Bd6 19.Kg2 Nc4 20.Bc5 Bxc5 21.bxc5 Qg5
 Qf6 29.Ngxe6 Rfe8 30.Nxd8 Qxd8 31.f3 g5 32.Qc4+ Kh8 33.Nd5 Nd2 34.Qxd4+ 
 1-0
 
+[Event "Mirandela Open 2022"]
+[Site "Grande Hotel Dom Dinis, Av. Nossa Sra. do Amparo, 5370-210, in Mirandela"]
+[Date "2022.08.21"]
+[Round "7"]
+[White "Machado, Carlos Augusto G"]
+[Black "Pinto, Gabriel Morais"]
+[Result "1-0"]
+[WhiteElo "1357"]
+[BlackElo "0"]
+[ECO "C65m"]
+[EventDate "2022.08.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.d3 a6 6.Ba4 O-O 7.Bg5 h6 8.Bh4 d6 
+9.h3 Bd7 10.c3 Na5 11.Bxd7 Qxd7 12.b4 Bb6 13.bxa5 Bxa5 14.Bxf6 gxf6 15.Nh4
+Bb6 16.Nf5 Kh7 17.Qh5 Qe8 18.Qxh6+ Kg8 19.Qg7# 1-0
+

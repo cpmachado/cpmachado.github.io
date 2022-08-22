@@ -51,8 +51,8 @@ rounds:
     date: "2022-08-20 14:30"
   - number: 6
     result: 0
-    colour: "white"
-    opponent_colour: "black"
+    colour: "black"
+    opponent_colour: "white"
     opponent:
       title: "WFM"
       name: "Alfonso Ruisanchez, Laritza"
@@ -60,3 +60,13 @@ rounds:
       fide_id: 3521044
     rating_change: -1.6
     date: "2022-08-20 20:30"
+  - number: 7
+    result: 1
+    colour: "white"
+    opponent_colour: "black"
+    opponent:
+      name: "Pinto, Gabriel Morais"
+      rating: 0
+      fide_id: 1967703
+    rating_change: 0
+    date: "2022-08-21 15:00"
