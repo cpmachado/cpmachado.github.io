@@ -26,16 +26,19 @@
 
 {% assign balance = win | minus: loss %}
 {% assign points = 0.5 | times: draw | plus: win %}
+{% assign n_rounds = rounds | size %}
 
 > Mirandela Open 2022 General Results
 >
+> Number of rounds: {{ n_rounds }} / 9
+>
 > \+ {{ win }} - {{ loss }} = {{ draw }}
 >
-> Points: {{ points }}
+> Points: {{ points }} / {{ n_rounds }}
 >
-> Balance: {{ balance }}
+> Balance: {% if balance > 0 %} + {% endif %} {{ balance }}
 >
-> Rating Change: {{ rating_change }}
+> Rating Change: {% if rating_change > 0 %} \+ {% endif %} {{ rating_change }}
 
 {% if the_round != null %}
 

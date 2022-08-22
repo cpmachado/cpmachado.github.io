@@ -13,6 +13,6 @@
 >
 > **Result:** {{ result }}
 >
-> **Rating Change:** {{ rating_change }}
+> **Rating Change:** {% if rating_change > 0 %} + {% endif %} {{ rating_change }}
 
 {% include round_player.md player=opponent colour=opponent_colour is_opponent=true %}
