@@ -8,11 +8,13 @@ category: chess
 TL&DR: I got sick, and had to request a bye for round 3, and was unable to
 play round 4. I had to remove myself from the tournament.
 
+EDITED:
+- 2022-08-22 14:11:33 +0100
+  + Edited results section
+
 ---
 
 ## Results
-
-Dynamic global results.
 
 {% include mirandela_open_2022.md %}
 

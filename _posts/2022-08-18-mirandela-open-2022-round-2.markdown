@@ -12,6 +12,8 @@ given and sold.
 EDITED:
 - 2022-08-21 23:44:04 +0100
   + Added chess board
+- 2022-08-22 14:11:33 +0100
+  + Edited results section
 
 ---
 
@@ -40,8 +42,6 @@ EDITED:
 >  -- William Shakespeare, Macbeth, Act 5, Scene 5
 
 ## Results
-
-Dynamic global results, and specific to round 2.
 
 {% include mirandela_open_2022.md round_number=2 %}
 
