@@ -70,3 +70,23 @@ rounds:
       fide_id: 1967703
     rating_change: 0
     date: "2022-08-21 15:00"
+  - number: 8
+    result: 0.5
+    colour: "black"
+    opponent_colour: "white"
+    opponent:
+      name: "Turazza, Silvia"
+      rating: 1627
+      fide_id: 886874
+    rating_change: 6.6
+    date: "2022-08-22 15:00"
+  - number: 9
+    result: 0.5
+    colour: "white"
+    opponent_colour: "black"
+    opponent:
+      name: "Afonso, Paulo Jorge Pereira"
+      rating: 1538
+      fide_id: 1907549
+    rating_change: 4.8
+    date: "2022-08-23 10:00"
