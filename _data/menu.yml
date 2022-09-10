@@ -5,6 +5,21 @@ entries:
       - title: github
         url: https://github.com/cpmachado
 
+  - title: All posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: Journal posts
+    post_list:
+      category: journal
+      limit: 5
+      show_more: true
+      show_more_text: See journal archive...
+      show_more_url: journal.html
+
   - title: Chess posts
     post_list:
       category: chess
@@ -12,13 +27,6 @@ entries:
       show_more: true
       show_more_text: See chess archive...
       show_more_url: chess.html
-
-  - title: All posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
 
   - title: Categories
     url: categories
