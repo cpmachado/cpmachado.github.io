@@ -1,9 +1,4 @@
 entries:
-  - title: 127.0.0.1
-    url: false
-    entries:
-      - title: github
-        url: https://github.com/cpmachado
 
   - title: All posts
     post_list:
@@ -42,4 +37,7 @@ entries:
 
   - title: contact
     url: contact
+
+  - title: github
+    url: https://github.com/cpmachado
 
