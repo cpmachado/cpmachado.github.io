@@ -7,13 +7,13 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: Journal posts
+  - title: Dev posts
     post_list:
-      category: journal
+      category: dev
       limit: 5
       show_more: true
-      show_more_text: See journal archive...
-      show_more_url: journal.html
+      show_more_text: See dev archive...
+      show_more_url: dev.html
 
   - title: Chess posts
     post_list:
@@ -22,6 +22,14 @@ entries:
       show_more: true
       show_more_text: See chess archive...
       show_more_url: chess.html
+
+  - title: Journal posts
+    post_list:
+      category: journal
+      limit: 5
+      show_more: true
+      show_more_text: See journal archive...
+      show_more_url: journal.html
 
   - title: Categories
     url: categories
