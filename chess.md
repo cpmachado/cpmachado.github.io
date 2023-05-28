@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Chess log
+title: Chess
 which_category: chess
 ---
