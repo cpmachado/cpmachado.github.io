@@ -6,32 +6,7 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: Dev posts
-    post_list:
-      category: dev
-      limit: 5
-      show_more: true
-      show_more_text: See dev archive...
-      show_more_url: dev.html
-
-  - title: Chess posts
-    post_list:
-      category: chess
-      limit: 5
-      show_more: true
-      show_more_text: See chess archive...
-      show_more_url: chess.html
-
-  - title: Journal posts
-    post_list:
-      category: journal
-      limit: 5
-      show_more: true
-      show_more_text: See journal archive...
-      show_more_url: journal.html
-
-  - title: Categories
+  - title: categories
     url: categories
 
   - title: rss
@@ -48,4 +23,3 @@ entries:
 
   - title: github
     url: https://github.com/cpmachado
-

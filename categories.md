@@ -5,6 +5,8 @@ permalink: /categories
 ---
 
 List of Categories:
-- [Journal](/journal.html)
-- [Chess log](/chess.html)
-- [Dev log](/dev.html)
+{% for category in site.categories %}
+{% assign name = category | first %}
+{% assign url = name | append: ".html" %}
+- [{{ name | capitalize }}](/{{ url }})
+{% endfor %}
