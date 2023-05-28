@@ -1,5 +1,5 @@
 ---
 layout: archive
 title: Mathematics
-which_category: math
+which_category: mathematics
 ---
