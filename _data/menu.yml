@@ -9,6 +9,12 @@ entries:
   - title: categories
     url: categories
 
+  - title: english
+    url: lang/en
+
+  - title: portuguese
+    url: lang/pt
+
   - title: about
     url: about
 
