@@ -3,6 +3,7 @@ layout: post
 title: "Mirandela Open 2022 - Round 2"
 date: "2022-08-18 16:13:04 +0100"
 category: chess
+lang: en
 ---
 
 TL&DR: The second round of the **Mirandela Open 2022** went horribly. Beyond

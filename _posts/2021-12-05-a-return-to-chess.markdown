@@ -4,6 +4,7 @@ title: "A return to chess"
 date: "2021-12-05 11:29:08 +0000"
 author: cpmachado
 category: chess
+lang: en
 ---
 
 TL&DR: A plan to return to play chess properly, after a year and a half of "sacking" pieces.

@@ -3,6 +3,7 @@ layout: post
 title: "Mirandela Open 2022 - Round 5"
 date: "2022-08-22 14:31:14 +0100"
 category: chess
+lang: en
 ---
 
 TL&DR: Managed to recover throughout the day, and played the following. Had a

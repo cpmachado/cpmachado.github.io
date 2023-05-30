@@ -7,10 +7,6 @@ lang: pt
 has_math: true
 ---
 
-***This post is written in Portuguese***
-
----
-
 > ***Teorema***:
 Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 

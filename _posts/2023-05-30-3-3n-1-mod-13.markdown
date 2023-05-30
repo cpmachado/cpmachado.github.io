@@ -7,10 +7,6 @@ lang: pt
 category: mathematics
 ---
 
-***This post is written in Portuguese***
-
----
-
 > ***Teorema***:
 Seja $$n \in \mathbb{N}$$, então
 $$

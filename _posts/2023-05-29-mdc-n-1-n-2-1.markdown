@@ -7,10 +7,6 @@ lang: pt
 has_math: true
 ---
 
-***This post is written in Portuguese***
-
----
-
 > ***Teorema***:
 Seja $$\Psi: \mathbb{N} \to \mathbb{N}$$ uma função definida por
 $$

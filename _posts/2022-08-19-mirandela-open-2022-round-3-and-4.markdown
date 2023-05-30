@@ -3,6 +3,7 @@ layout: post
 title: "Mirandela Open 2022 - Round 3 and 4"
 date: "2022-08-19 15:13:13 +0100"
 category: chess
+lang: en
 ---
 
 TL&DR: I got sick, and had to request a bye for round 3, and was unable to

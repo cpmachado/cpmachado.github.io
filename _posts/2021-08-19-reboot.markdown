@@ -4,6 +4,7 @@ title: "Reboot"
 date: "2021-08-19 18:16:09 +0100"
 author: cpmachado
 category: journal
+lang: en
 ---
 
 TL&DR: I'm back into spamming here, but spent 3 months without doing it again.
