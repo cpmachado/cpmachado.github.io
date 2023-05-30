@@ -15,9 +15,6 @@ entries:
   - title: about
     url: about
 
-  - title: small biography
-    url: bio
-
   - title: contact
     url: contact
 

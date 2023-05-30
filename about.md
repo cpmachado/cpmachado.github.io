@@ -2,6 +2,7 @@
 layout: post
 title: About
 permalink: /about
+has_math: true
 ---
 
 
@@ -9,7 +10,14 @@ permalink: /about
 ![ for Something completely different][different]
 
 
-Currently working as Fullstack NodeJS/ReactJS at Engie.
+I like mathematics a lot.
+
+$$
+	\begin{align*}
+	a^2 + b^2 &= c^2 &\text{ (Pythagorean theorem)}\\
+	\sum_{k = 1}^n k &= \frac{n(n+1)}{2} &\text{ (Sum of naturals until n)}
+	\end{align*}
+$$
 
 
 - My Github Accounts
@@ -22,8 +30,6 @@ Currently working as Fullstack NodeJS/ReactJS at Engie.
 	+ <https://www.chess.com/stats/overview/cpmachado>
 - npm account
 	+ <https://www.npmjs.com/~cfy>
-- [Biography Summarized]
 
 
 [different]: /images/completely-different.gif
-[Biography Summarized]: /bio
