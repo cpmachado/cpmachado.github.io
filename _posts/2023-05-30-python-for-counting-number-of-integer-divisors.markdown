@@ -3,7 +3,7 @@ layout: post
 title: "Counting integer divisors"
 date: "2023-05-30 18:37:46 +0100"
 lang: en
-category: [dev,mathematics]
+category: [dev,mathematics,python,discrete-mathematics]
 ---
 
 TL&DR: Although I've been using Python for years, its set notation still

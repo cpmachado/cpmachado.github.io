@@ -4,7 +4,7 @@ title: "3^{3n} = 1 mod 13"
 date: "2023-05-30 14:59:58 +0100"
 has_math: true
 lang: pt
-category: mathematics
+category: [mathematics,discrete-mathematics]
 ---
 
 > ***Teorema***:

@@ -28,6 +28,9 @@ layout: default
     </a>
   </p>
   {% endif %}
+  {% if page.lang || page.category %}
   <hr />
+  {% endif %}
+
   {{ content }}
 </article>
