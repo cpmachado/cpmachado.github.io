@@ -11,12 +11,14 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   {% if page.category %}
-  <p>
-    Category:
-    <a href={{"/" | append: page.category}}>
-        {{page.category}}
-    </a>
-  </p>
+    <p>
+        Category:
+    {% for category in page.categories %}
+        [<a href={{"/" | append: category}}>
+          {{- category -}}
+        </a>]
+    {% endfor %}
+    </p>
   {% endif %}
 
   {% if page.lang %}
