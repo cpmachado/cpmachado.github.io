@@ -24,7 +24,7 @@ $$
 \end{cases}
 $$
 
-> ***Demostração***:
+> ***Demonstração***:
 >
 > Seja $$n \in \mathbb{N} $$, tem-se
 >

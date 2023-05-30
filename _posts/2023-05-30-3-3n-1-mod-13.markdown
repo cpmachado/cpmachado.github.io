@@ -17,7 +17,7 @@ $$
 3^{3n} \equiv 1 \text{ mod 13}
 $$.
 
-> ***Demostração***:
+> ***Demonstração***:
 >
 > Seja $$n \in \mathbb{N} $$, tem-se
 >
