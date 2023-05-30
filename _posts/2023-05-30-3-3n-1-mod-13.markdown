@@ -1,0 +1,36 @@
+---
+layout: post
+title: "3^{3n} = 1 mod 13"
+date: "2023-05-30 14:59:58 +0100"
+has_math: true
+lang: pt
+category: [pt, mathematics]
+---
+
+***This post is written in Portuguese***
+
+---
+
+> ***Teorema***:
+Seja $$n \in \mathbb{N}$$, então
+$$
+3^{3n} \equiv 1 \text{ mod 13}
+$$.
+
+> ***Demostração***:
+>
+> Seja $$n \in \mathbb{N} $$, tem-se
+>
+>$$3^{3n} = (3^3)^n = 27^n = (2 \cdot 13 + 1)^n$$
+>
+> Pelo Binómio de Newton, tem-se:
+> $$
+> \begin{align*}
+> (2 \cdot 13 + 1)^n
+> &= \sum^n_{k = 0} \binom{n}{k} (2 \cdot 13)^{n - k} \cdot 1^k\\
+> &= \sum^{n - 1}_{k = 0} \binom{n}{k}(2 \cdot 13)^{n - k} \cdot 1^k + 1
+> &\equiv 1 \text{ mod 13} \\
+> &&&\text{q.e.d.}
+> \end{align*}
+> $$
+
