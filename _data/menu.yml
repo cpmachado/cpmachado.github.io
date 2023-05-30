@@ -9,9 +9,6 @@ entries:
   - title: categories
     url: categories
 
-  - title: rss
-    url: feed.xml
-
   - title: about
     url: about
 
@@ -20,3 +17,6 @@ entries:
 
   - title: github
     url: https://github.com/cpmachado
+
+  - title: rss
+    url: feed.xml
