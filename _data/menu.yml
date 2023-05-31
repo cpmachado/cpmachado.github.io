@@ -10,11 +10,7 @@ entries:
     url: categories
 
   - title: languages
-    entries:
-      - title: english
-        url: lang/en
-      - title: portuguese
-        url: lang/pt
+    url: lang
 
   - title: about
     url: about

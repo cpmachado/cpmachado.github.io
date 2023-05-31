@@ -1,0 +1,16 @@
+<ul>
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+{% assign name = category | first %}
+{% assign url = name | append: ".html" | relative-url %}
+{% assign arr = name | split: "-" %}
+<li>
+<a href="{{url}}">
+  {%-for word in arr-%}
+  <span> {{ word | capitalize }}</span>
+  {%-endfor-%}
+</a>:
+{{ category| last | size }}
+</li>
+{% endfor %}
+</ul>
