@@ -7,5 +7,5 @@ install:
 	bundle install
 
 serve:
-	bundle exec jekyll serve --incremental --open
+	bundle exec jekyll serve --incremental -o -l
 
