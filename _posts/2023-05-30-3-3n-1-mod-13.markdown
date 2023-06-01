@@ -25,7 +25,7 @@ $$.
 > (2 \cdot 13 + 1)^n
 > &= \sum^n_{k = 0} \binom{n}{k} (2 \cdot 13)^{n - k} \cdot 1^k\\
 > &= \sum^{n - 1}_{k = 0} \binom{n}{k}(2 \cdot 13)^{n - k} \cdot 1^k + 1
-> &\equiv 1 \text{ mod 13} \\
+> \equiv 1 \text{ mod 13} \\
 > &&&\text{q.e.d.}
 > \end{align*}
 > $$
