@@ -7,15 +7,6 @@ lang: pt
 category: [mathematics,discrete-mathematics]
 ---
 
-
-EDITED:
-- 2023-06-02 18:47:00 +0000
-  + Fix alignment of q.e.d.
-- 2023-06-02 17:21:31 +0000
-  + Added Bibliography
-
----
-
 > ***Teorema***:
 Seja $$n \in \mathbb{N}$$, então
 $$
@@ -46,3 +37,12 @@ $$.
 {% bibliography --cited %}
 
 
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2023-06-02 18:47:00 +0000
+  + Fix alignment of q.e.d.
+- 2023-06-02 17:21:31 +0000
+  + Added Bibliography

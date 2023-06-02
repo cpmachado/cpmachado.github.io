@@ -9,10 +9,6 @@ lang: en
 
 TL&DR: I'm back into spamming here, but spent 3 months without doing it again.
 
-EDITED:
-- 2021-12-07 14:01:31 +0000
-  + Added metadata and summary
-
 ---
 
 Rebooting my blog, as my old content was mostly the ramblings on the tales of 0x3E9 bugs that is my
@@ -49,3 +45,11 @@ The book is "Puzzles com História" by Joaquim Eurico Nogueira.
 
 Playing around with riddles and puzzles helps the mind get calm.
 I'll be writing about it here.
+
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2021-12-07 14:01:31 +0000
+  + Added metadata and summary

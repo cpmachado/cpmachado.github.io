@@ -9,10 +9,6 @@ lang: en
 
 TL&DR: Rambling about how my code quality as been consistently decreasing.
 
-EDITED:
-- 2021-12-07 14:01:31 +0000
-  + Added metadata and summary
-
 ---
 
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
@@ -85,3 +81,10 @@ Goals:
 
 Let us see how far I reach, until I run out of steam, as chess is a priority for me, as well.
 
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2021-12-07 14:01:31 +0000
+  + Added metadata and summary

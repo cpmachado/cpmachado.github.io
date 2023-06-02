@@ -7,14 +7,6 @@ lang: pt
 has_math: true
 ---
 
-EDITED:
-- 2023-06-02 18:47:00 +0000
-  + Fix alignment of q.e.d.
-- 2023-06-02 17:18:31 +0000
-  + Added Bibliography
-
----
-
 > ***Teorema***:
 Seja $$\Psi: \mathbb{N} \to \mathbb{N}$$ uma função definida por
 $$
@@ -70,3 +62,12 @@ $$
 {% bibliography --cited %}
 
 
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2023-06-02 18:47:00 +0000
+  + Fix alignment of q.e.d.
+- 2023-06-02 17:18:31 +0000
+  + Added Bibliography

@@ -9,10 +9,6 @@ lang: en
 TL&DR: I got sick, and had to request a bye for round 3, and was unable to
 play round 4. I had to remove myself from the tournament.
 
-EDITED:
-- 2022-08-22 14:11:33 +0100
-  + Edited results section
-
 ---
 
 ## Results
@@ -30,3 +26,11 @@ In consequence of the unknowns pertaining my situation, I've removed myself
 from the tournament.
 
 It appears, there were no rounds to go.
+
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2022-08-22 14:11:33 +0100
+  + Edited results section

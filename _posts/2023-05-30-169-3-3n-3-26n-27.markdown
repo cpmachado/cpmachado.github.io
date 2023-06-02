@@ -7,14 +7,6 @@ lang: pt
 has_math: true
 ---
 
-EDITED:
-- 2023-06-02 18:47:00 +0000
-  + Fix alignment of q.e.d.
-- 2023-06-02 17:27:31 +0000
-  + Added Bibliography
-
----
-
 > ***Teorema***:
 Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 
@@ -65,3 +57,12 @@ Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 {% bibliography --cited %}
 
 
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2023-06-02 18:47:00 +0000
+  + Fix alignment of q.e.d.
+- 2023-06-02 17:27:31 +0000
+  + Added Bibliography

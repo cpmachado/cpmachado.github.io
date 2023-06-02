@@ -10,12 +10,6 @@ TL&DR: The second round of the **Mirandela Open 2022** went horribly. Beyond
 reason, and in pure emotion, failure was short of disaster. Drama for everyone,
 given and sold.
 
-EDITED:
-- 2022-08-21 23:44:04 +0100
-  + Added chess board
-- 2022-08-22 14:11:33 +0100
-  + Edited results section
-
 ---
 
 > **There would have been a time for such a word.**
@@ -78,3 +72,13 @@ played. My thoughts go to that Macbeth soliloquy which deepens my existential
 chess angst. It's beautiful nevertheless.
 
 Stating the fact, there 7 rounds to go.
+
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2022-08-22 14:11:33 +0100
+  + Edited results section
+- 2022-08-21 23:44:04 +0100
+  + Added chess board

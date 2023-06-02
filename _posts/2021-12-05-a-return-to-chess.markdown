@@ -8,11 +8,6 @@ lang: en
 ---
 
 TL&DR: A plan to return to play chess properly, after a year and a half of "sacking" pieces.
-
-EDITED:
-- 2021-12-07 14:01:31 +0000
-  + Added metadata and summary
-
 ---
 
 > **In writing, you must kill your darlings.**
@@ -69,3 +64,12 @@ This quote came to me,  amidst discussing with a friend, over the game we played
 As we are both overly attached to moves, and we should and I will overcome it.
 
 Hopefully, we both do.
+
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2021-12-07 14:01:31 +0000
+  + Added metadata and summary
+

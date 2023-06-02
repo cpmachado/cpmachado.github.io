@@ -11,12 +11,6 @@ TL&DR: My return has been ridden with issues, decided to go to
 and lost the first game for the same reasons as always. Talking about the
 experience
 
-EDITED:
-- 2022-08-21 23:44:04 +0100
-  + Added chess board
-- 2022-08-22 14:11:33 +0100
-  + Edited results section
-
 ---
 
 > **Experience is merely the name men gave to their mistakes.**
@@ -58,3 +52,12 @@ As Camus used to say, be like Sisyphus, and smile towards adversity.
 
 Lost a game that could've been great, but I still got 8 rounds to go.
 
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2022-08-22 14:11:33 +0100
+  + Edited results section
+- 2022-08-21 23:44:04 +0100
+  + Added chess board

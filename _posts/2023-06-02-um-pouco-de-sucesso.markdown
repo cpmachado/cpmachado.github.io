@@ -6,12 +6,6 @@ category: journal
 lang: pt
 ---
 
-EDITED:
-- 2023-06-02 23:49:00 +0000
-  + Update list of articles
-
----
-
 Desde de Setembro que estou a tirar uma licenciatura em Matemática. Há uns
 dias comecei a publicar alguns teoremas de um trabalho, que fiz há um mês. Os
 artigos em questão são:
@@ -32,3 +26,11 @@ esforço, parece que estou a conseguir fazer algo de jeito.
 
 Agora há que organizar as coisas melhor, de modo a que tal se repita. O sonho
 era não deixar nenhuma cadeira para trás. Vamos ver o que acontece.
+
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2023-06-02 23:49:00 +0000
+  + Update list of articles
