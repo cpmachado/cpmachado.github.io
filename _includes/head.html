@@ -15,15 +15,12 @@
   {%-feed_meta-%}
 
   {%- if page.has_math -%}
-  <script src="{{site.url}}/MathJax/es5/tex-mml-svg.js"></script>
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {inlineMath: [['$','$']]},
-        "HTML-CSS": { linebreaks: { automatic: true } },
-          CommonHTML: { linebreaks: { automatic: true } },
-            SVG: { linebreaks: { automatic: true } }
-            });
-  </script>
+    {%- if jekyll.environment == "production" -%}
+      <script type="text/javascript" async
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_SVGorMML"></script>
+    {%-else-%}
+      <script src="{{site.url}}/MathJax/es5/tex-mml-svg.js"></script>
+    {%-endif-%}
   {%- endif -%}
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
