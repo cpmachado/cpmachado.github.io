@@ -7,6 +7,12 @@ lang: pt
 has_math: true
 ---
 
+EDITED:
+- 2023-06-02 17:27:31 +0000
+  + Added Bibliography
+
+---
+
 > ***Teorema***:
 Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 
@@ -37,8 +43,7 @@ Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 > $$\forall n \in \mathbb{N}, \exists k \in \mathbb{N}:
 > 3^{3n + 3} - 26n - 27 = 169k$$
 >
-> e pelo teorema do artigo
-> [3^{3n} = 1 mod 13](/mathematics/discrete-mathematics/3-3n-1-mod-13),
+> e pelo teorema doutro artigo {% cite 3p3n1mod13 %}
 > tem-se que:
 >
 > $$ \forall n \in \mathbb{N}, \exists k' \in \mathbb{N}: 3^n = 13k' + 1$$
@@ -51,3 +56,9 @@ Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 > && \text{q.e.d.}
 > \end{align*}
 > $$
+
+## Bibliografia
+
+{% bibliography --cited %}
+
+
