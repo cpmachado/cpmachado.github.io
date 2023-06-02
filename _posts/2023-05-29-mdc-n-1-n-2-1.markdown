@@ -7,6 +7,12 @@ lang: pt
 has_math: true
 ---
 
+EDITED:
+- 2023-06-02 17:18:31 +0000
+  + Added Bibliography
+
+---
+
 > ***Teorema***:
 Seja $$\Psi: \mathbb{N} \to \mathbb{N}$$ uma função definida por
 $$
@@ -26,8 +32,11 @@ $$
 >
 >$$n^2 + 1 = n^2 - 1 + 2 = (n + 1)(n - 1) + 2 \equiv 2 \text{ mod } n + 1$$
 >
-> Pelo lema de Euclides, este resultado implica que
-> $$ \Psi(n) = \text{mdc}(n+1, n^2 + 1) = \text{mdc}(n + 1, 2)$$.
+> Pelo lema de Euclides
+> {% cite Martinez -L Lema -l Lema 1.4 %},
+> este resultado implica que
+>
+> $$ \Psi(n) = \text{mdc}(n+1, n^2 + 1) = \text{mdc}(n + 1, 2).$$
 >
 > Logo,
 >
@@ -53,6 +62,8 @@ $$
 > \end{align*}
 > $$
 
+## Bibliografia
 
+{% bibliography --cited %}
 
 

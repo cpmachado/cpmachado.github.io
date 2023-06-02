@@ -39,3 +39,6 @@ feed:
     - chess
     - dev
     - mathematics
+
+scholar:
+  style: natbib-plainnat-author-date
