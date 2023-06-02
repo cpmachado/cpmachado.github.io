@@ -16,8 +16,9 @@
 
   {%- if page.has_math -%}
     {%- if jekyll.environment == "production" -%}
-      <script type="text/javascript" async
-            src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-SVG"></script>
+      <script type="text/javascript" id="MathJax-script" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-svg.js">
+      </script>
     {%-else-%}
       <script src="{{site.url}}/MathJax/es5/tex-mml-svg.js"></script>
     {%-endif-%}
