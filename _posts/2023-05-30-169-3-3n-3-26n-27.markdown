@@ -8,6 +8,8 @@ has_math: true
 ---
 
 EDITED:
+- 2023-06-02 18:47:00 +0000
+  + Fix alignment of q.e.d.
 - 2023-06-02 17:27:31 +0000
   + Added Bibliography
 
@@ -52,10 +54,11 @@ Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 >
 > $$
 > \begin{align*}
-> 169k + 2 \cdot 13(13k'+1-1)&= 169(k + 2k')\\
-> && \text{q.e.d.}
+> 169k + 2 \cdot 13(13k'+1-1)&= 169(k + 2k')
 > \end{align*}
 > $$
+>
+> q.e.d.
 
 ## Bibliografia
 

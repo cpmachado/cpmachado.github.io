@@ -8,6 +8,8 @@ has_math: true
 ---
 
 EDITED:
+- 2023-06-02 18:47:00 +0000
+  + Fix alignment of q.e.d.
 - 2023-06-02 17:18:31 +0000
   + Added Bibliography
 
@@ -58,9 +60,10 @@ $$
 > 1, n \equiv 0 \text{ mod 2}\\
 > 2, n \equiv 1 \text{ mod 2}
 > \end{cases} \\
-> && \text{q.e.d.}
 > \end{align*}
 > $$
+>
+> q.e.d.
 
 ## Bibliografia
 
