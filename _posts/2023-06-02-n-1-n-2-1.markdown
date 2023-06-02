@@ -8,7 +8,7 @@ has_math: true
 ---
 
 > ***Teorema***:
-> Seja $$n \in \mathbb{N}$$, $$A = \{n \in \mathbb{N}: n + 1 \mid n^2 + 1\} = 1$$.
+> Seja $$n \in \mathbb{N}$$, $$A = \{n \in \mathbb{N}: n + 1 \mid n^2 + 1\} = \{1\}$$.
 
 > ***Demonstração***:
 >
