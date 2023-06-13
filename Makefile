@@ -3,6 +3,9 @@
 all: serve
 
 
+clean:
+	bundle exec jekyll clean
+
 install:
 	bundle install
 
