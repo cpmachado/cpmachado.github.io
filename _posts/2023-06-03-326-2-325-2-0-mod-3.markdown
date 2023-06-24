@@ -7,14 +7,14 @@ lang: pt
 has_math: true
 ---
 
-> ***Teorema***:
+***Teorema***:
 $$326^2 - 325^2 \equiv 0 \text{ mod } 3$$
 
 
-> ***Demonstração***:
->
->$$326^2 - 325^2 = (326 + 325) (326 - 325) = 651 = 217 \cdot 3 \equiv 0 \text{ mod } 3$$
->
-> q.e.d.
+***Demonstração***:
+
+$$326^2 - 325^2 = (326 + 325) (326 - 325) = 651 = 217 \cdot 3 \equiv 0 \text{ mod } 3$$
+
+q.e.d.
 
 

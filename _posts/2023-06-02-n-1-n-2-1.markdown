@@ -7,28 +7,29 @@ lang: pt
 has_math: true
 ---
 
-> ***Teorema***:
-> Seja $$n \in \mathbb{N}$$, $$A = \{n \in \mathbb{N}: n + 1 \mid n^2 + 1\} = \{1\}$$.
+***Teorema***:
 
-> ***Demonstração***:
->
-> Assumindo que $$n + 1 \mid n^2 + 1$$, então:
->
-> $$
-> \begin{cases}
->   n + 1 \mid n^2 + 1 \\
->   n + 1 \mid n + 1
-> \end{cases}
-> \implies n + 1 \mid n^2 + 1 - n(n + 1)
-> \iff n + 1 \mid -n + 1
-> $$
->
-> Usando a propriedade da Limitação
-> {% cite Martinez -L Lemma -l Lemma 1.1 alínea (ii) %},
-> dado que $$| -n + 1 | < | n + 1|$$, para $$n \in \mathbb{N}$$, então
-> $$-n + 1 = 0 \iff n = 1$$, pelo que concluímos que $$A = \{ 1 \}$$.
->
-> q.e.d.
+Seja $$n \in \mathbb{N}$$, $$A = \{n \in \mathbb{N}: n + 1 \mid n^2 + 1\} = \{1\}$$.
+
+***Demonstração***:
+
+Assumindo que $$n + 1 \mid n^2 + 1$$, então:
+
+$$
+\begin{cases}
+  n + 1 \mid n^2 + 1 \\
+  n + 1 \mid n + 1
+\end{cases}
+\implies n + 1 \mid n^2 + 1 - n(n + 1)
+\iff n + 1 \mid -n + 1
+$$
+
+Usando a propriedade da Limitação
+{% cite Martinez -L Lemma -l Lemma 1.1 alínea (ii) %},
+dado que $$| -n + 1 | < | n + 1|$$, para $$n \in \mathbb{N}$$, então
+$$-n + 1 = 0 \iff n = 1$$, pelo que concluímos que $$A = \{ 1 \}$$.
+
+q.e.d.
 
 ## Bibliografia
 

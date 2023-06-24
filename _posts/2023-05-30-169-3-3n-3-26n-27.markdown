@@ -7,50 +7,51 @@ lang: pt
 has_math: true
 ---
 
-> ***Teorema***:
+***Teorema***:
+
 Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 
-> ***Demonstração:***
->
-> Para $$n = 1$$, tem-se $$ 3^6 - 26 - 27 = 729 - 53 = 676 = 4 \cdot 169$$,
-> que verifica o caso base.
->
-> Fixado $$n \in \mathbb{N}$$, suponhamos:
->
-> $$169 \mid 3^{3n + 3} - 26n - 27 \text{ (Hipótese de Indução)}$$
->
-> Pretende-se provar que:
->
-> $$169 \mid 3^{3(n + 1) + 3} - 26(n + 1) - 27 \text{ (Tese de Indução)}$$
->
-> Passo de indução:
->
-> $$
-> \begin{align*}
-> 3^{3(n + 1) + 3} - 26(n + 1) - 27 &= 3^{3n + 3} \cdot 27 - 26n - 26 - 27\\
-> &= 3^{3n + 3} - 26n - 27 + 26(3^{3n + 3} - 1)
-> \end{align*}
-> $$
->
-> Pela Hipótese de Indução, tem-se que:
->
-> $$\forall n \in \mathbb{N}, \exists k \in \mathbb{N}:
-> 3^{3n + 3} - 26n - 27 = 169k$$
->
-> e pelo teorema doutro artigo {% cite 3p3n1mod13 %}
-> tem-se que:
->
-> $$ \forall n \in \mathbb{N}, \exists k' \in \mathbb{N}: 3^n = 13k' + 1$$
->
->, donde se conclui que:
->
-> $$
-> \begin{align*}
-> 169k + 2 \cdot 13(13k'+1-1)&= 169(k + 2k')
-> \end{align*}
-> $$
->
-> q.e.d.
+***Demonstração:***
+
+Para $$n = 1$$, tem-se $$ 3^6 - 26 - 27 = 729 - 53 = 676 = 4 \cdot 169$$,
+que verifica o caso base.
+
+Fixado $$n \in \mathbb{N}$$, suponhamos:
+
+$$169 \mid 3^{3n + 3} - 26n - 27 \text{ (Hipótese de Indução)}$$
+
+Pretende-se provar que:
+
+$$169 \mid 3^{3(n + 1) + 3} - 26(n + 1) - 27 \text{ (Tese de Indução)}$$
+
+Passo de indução:
+
+$$
+\begin{align*}
+3^{3(n + 1) + 3} - 26(n + 1) - 27 &= 3^{3n + 3} \cdot 27 - 26n - 26 - 27\\
+&= 3^{3n + 3} - 26n - 27 + 26(3^{3n + 3} - 1)
+\end{align*}
+$$
+
+Pela Hipótese de Indução, tem-se que:
+
+$$\forall n \in \mathbb{N}, \exists k \in \mathbb{N}:
+3^{3n + 3} - 26n - 27 = 169k$$
+
+e pelo teorema doutro artigo {% cite 3p3n1mod13 %}
+tem-se que:
+
+$$ \forall n \in \mathbb{N}, \exists k' \in \mathbb{N}: 3^n = 13k' + 1$$
+
+, donde se conclui que:
+
+$$
+\begin{align*}
+169k + 2 \cdot 13(13k'+1-1)&= 169(k + 2k')
+\end{align*}
+$$
+
+q.e.d.
 
 ## Bibliografia
 
@@ -61,8 +62,8 @@ Para $$n \in \mathbb{N}$$, tem-se $$169 \mid 3^{3n + 1} - 26n - 27$$.
 
 EDITED:
 - 2023-06-02 23:52:30 +0000
-  + Change location of EDITED
+ + Change location of EDITED
 - 2023-06-02 18:47:00 +0000
-  + Fix alignment of q.e.d.
+ + Fix alignment of q.e.d.
 - 2023-06-02 17:27:31 +0000
-  + Added Bibliography
+ + Added Bibliography

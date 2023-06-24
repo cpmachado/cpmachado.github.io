@@ -7,30 +7,31 @@ lang: pt
 category: [mathematics,discrete-mathematics]
 ---
 
-> ***Teorema***:
+***Teorema***:
+
 Seja $$n \in \mathbb{N}$$, então
 $$
 3^{3n} \equiv 1 \text{ mod 13}
 $$.
 
-> ***Demonstração***:
->
-> Seja $$n \in \mathbb{N} $$, tem-se
->
->$$3^{3n} = (3^3)^n = 27^n = (2 \cdot 13 + 1)^n$$
->
-> Pelo Binómio de Newton {% cite Andre2000 -l 40 %}
-> , tem-se:
-> $$
-> \begin{align*}
-> (2 \cdot 13 + 1)^n
-> &= \sum^n_{k = 0} \binom{n}{k} (2 \cdot 13)^{n - k} \cdot 1^k\\
-> &= \sum^{n - 1}_{k = 0} \binom{n}{k}(2 \cdot 13)^{n - k} \cdot 1^k + 1
-> \equiv 1 \text{ mod 13}
-> \end{align*}
-> $$
->
-> q.e.d.
+***Demonstração***:
+
+Seja $$n \in \mathbb{N} $$, tem-se
+
+$$3^{3n} = (3^3)^n = 27^n = (2 \cdot 13 + 1)^n$$
+
+Pelo Binómio de Newton {% cite Andre2000 -l 40 %}
+, tem-se:
+$$
+\begin{align*}
+(2 \cdot 13 + 1)^n
+&= \sum^n_{k = 0} \binom{n}{k} (2 \cdot 13)^{n - k} \cdot 1^k\\
+&= \sum^{n - 1}_{k = 0} \binom{n}{k}(2 \cdot 13)^{n - k} \cdot 1^k + 1
+\equiv 1 \text{ mod 13}
+\end{align*}
+$$
+
+q.e.d.
 
 ## Bibliografia
 
