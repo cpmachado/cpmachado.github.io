@@ -8,14 +8,17 @@ Feel free to contact me for feedback or just about anything.
 
 You can contact me through my email: [{{ site.email }}][email]
 
-My PGP key is [here](res/gpg_cpmachado_key.asc), or below.
+My PGP Public key is [here](res/gpg_cpmachado_key.asc), or below.
+
+My SSH Public key is [here](res/ssh_cpmachado_key.asc), or below.
 
 Or through my twitter account: [{{ site.twitter_username }}][twitter]
 
 Give me a poke, if you have an interesting project.
 I live in Lisbon, so remote or around.
 
-## PGP Key
+## PGP Public Key
+
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -54,5 +57,3 @@ Kg49
 
 
 [email]: mailto:{{site.email}}
-[twitter]: https://twitter.com/{{site.twitter_username}}
-
