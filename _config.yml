@@ -16,7 +16,7 @@ defaults:
     scope:
       path: "_posts"
     values:
-      permalink: "/:categories/:title"
+      permalink: "/:title"
 
 markdown: kramdown
 #theme: no-style-please
