@@ -43,5 +43,5 @@ for.
 
 ## Conclusion
 
-It was an eventful year full progress, setbacks, and hopefully I'm in the
+It was an eventful year, full of: progress; setbacks; and hopefully I'm in the
 right direction.
