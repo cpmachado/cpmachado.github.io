@@ -12,8 +12,6 @@ My PGP Public key is [here](res/gpg_cpmachado_key.asc), or below.
 
 My SSH Public key is [here](res/ssh_cpmachado_key.asc), or below.
 
-Or through my twitter account: [{{ site.twitter_username }}][twitter]
-
 Give me a poke, if you have an interesting project.
 I live in Lisbon, so remote or around.
 
