@@ -23,9 +23,6 @@ $$
 - My Github Accounts
 	+ <https://github.com/cpmachado>
 	+ <https://github.com/cfy>
-- Organizations I contribute too:
-	+ <https://github.com/alenquerpower>
-	+ <https://github.com/scaccivox>
 - Chess.com
 	+ <https://www.chess.com/stats/overview/cpmachado>
 - npm account
