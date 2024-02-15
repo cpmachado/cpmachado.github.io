@@ -1,0 +1,22 @@
+entries:
+  - title: All posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: posts
+
+  - title: tags
+    url: tags
+
+  - title: about
+    url: about
+
+  - title: contact
+    url: contact
+
+  - title: github
+    url: https://github.com/cpmachado
+
+  - title: rss
+    url: index.xml

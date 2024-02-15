@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Reboot"
+date: "2021-08-19 18:16:09 +0100"
+author: cpmachado
+tags: journal
+lang: en
+---
+
+TL&DR: I'm back into spamming here, but spent 3 months without doing it again.
+
+---
+
+Rebooting my blog, as my old content was mostly the ramblings on the tales of 0x3E9 bugs that is my
+life. Trying to be more productive towards society. This rebirth comes from a time of crisis,
+whilst all the evils in the world appear to triumph.
+
+Look at Afghanistan, my country's slow descent into fascism amidst the COVID-19 crisis, and so much
+more. People got cabin fever, and whence restrictions were relaxed, the world has gone awry. Yes,
+we still use masks, but how many parties have you been going to?
+
+Myself, none, but time plays against me. The suffering and angst, the broken faith and outrage have
+given place to a quiet, yet steamy, complacency. Yes, I myself am still human, and the lid gets
+shot through the stars, from time to time, but it's getting less frequent.
+
+---
+
+**What I mean?**
+
+Spent some hellish months, on a downward spiral and close to burnout. Last time was today, but the
+previous one was like a month before. For a functional human being, under tons of pressure, it's
+actually pretty good.
+
+---
+
+**On how to keep sanity(or give a semblance of what sanity looks like)**
+
+Got myself a really fun book from my past. It was written by an old professor of mine. It's by a
+Portuguese man in Portuguese, and should you not read the language try to petition a
+translation. He'd like that, I like to think.
+
+The book is "Puzzles com História" by Joaquim Eurico Nogueira.
+
+<https://mbooks.pt/puzzles-com-historia.html>
+
+Playing around with riddles and puzzles helps the mind get calm.
+I'll be writing about it here.
+
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2021-12-07 14:01:31 +0000
+  + Added metadata and summary

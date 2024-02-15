@@ -1,0 +1,61 @@
+{{ $torneio := index .Site.Data (.Get "name") }}
+{{ $rounds := $torneio.rounds }}
+{{ $n_rounds := $rounds | len }}
+{{ $wins := collections.Where $rounds "result" "eq" 1 | len}}
+{{ $draws := collections.Where $rounds "result" "eq" 0.5 | len}}
+{{ $losses := collections.Where $rounds "result" "eq" 0 | len}}
+{{ $points := add $wins (mul $draws 0.5)}}
+
+{{ $rating_change := 0 }}
+{{ range $rounds }}
+{{ $rating_change = add $rating_change .rating_change }}
+{{ end }}
+
+<blockquote>
+    <p style="text-align: center;margin-bottom: 0.5em"><b><u>
+	{{ $torneio.name }} - General Results
+    </u></b></p>
+    <p> <b>Number of rounds:</b> {{ $n_rounds }} </p>
+    <p> + {{$wins}} - {{$losses}} = {{$draws}}</p>
+    <p> <b>Points:</b> {{ $points }} / {{$n_rounds}}</p>
+    <p> <b>Balance:</b> {{ sub $wins $losses }}</p>
+    <p> <b>Rating Change:</b> {{  printf "%.1f" $rating_change }}</p>
+</blockquote>
+
+{{ if $round_number := (.Get "round") }}
+{{ $round := index (collections.Where $rounds "number" "eq" $round_number) 0 }}
+<blockquote>
+    <p style="margin-bottom: 0.5em"><b><u>
+	Round {{ $round_number }}
+    </u></b></p>
+    <p><b>Date:</b> {{ $round.date }}</p>
+    <p><b>Result:</b> {{ $round.result }}</p>
+    <p><b>Rating Change:</b> {{ $round.rating_change }}</p>
+</blockquote>
+{{ $opponent := $round.opponent }}
+<blockquote>
+    <p style="margin-bottom: 0.5em"><b><u>
+	Opponent
+    </u></b></p>
+    <p> {{ $opponent.name }}</p>
+    <p><b>Fide ID:</b>
+      <a href="https://ratings.fide.com/profile/{{ $opponent.fide_id }}">
+	{{ $opponent.fide_id }}
+    </a></p>
+    <p><b>Playing as:</b>
+	{{ if compare.Eq $round.colour "white" }}
+	black
+	{{ else }}
+	white
+	{{end}}
+    </p>
+    {{ if $opponent.title }}
+    <p><b>Title:</b> {{ $opponent.title }} </p>
+    {{ end }}
+    {{ if $opponent.observations }}
+    <p><b>Observations:</b>
+	{{ $opponent.observations }}
+    </p>
+    {{ end }}
+</blockquote>
+{{ end }}
