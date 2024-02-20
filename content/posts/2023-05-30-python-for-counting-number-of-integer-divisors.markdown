@@ -2,7 +2,6 @@
 layout: post
 title: "Counting integer divisors"
 date: "2023-05-30 18:37:46 +0100"
-lang: en
 tags: [dev,mathematics,python,discrete-mathematics]
 ---
 

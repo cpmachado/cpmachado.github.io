@@ -4,7 +4,6 @@ title: "What is happening to my code?"
 date: "2021-12-05 12:18:09 +0000"
 author: cpmachado
 tags: dev
-lang: en
 ---
 
 TL&DR: Rambling about how my code quality as been consistently decreasing.

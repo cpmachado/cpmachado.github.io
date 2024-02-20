@@ -3,7 +3,6 @@ layout: post
 title: "A night in pain"
 date: "2022-08-19 14:46:20 +0100"
 tags: journal
-lang: en
 ---
 
 TL&DR: Learnt that I was wrong, and that I was truly sick. Spent a very nasty

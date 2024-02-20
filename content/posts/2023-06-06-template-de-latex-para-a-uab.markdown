@@ -3,7 +3,6 @@ layout: post
 title: "Template de latex para a UAb"
 date: "2023-06-06 16:25:50 +0100"
 tags: [dev]
-lang: pt
 mathjax: true
 ---
 

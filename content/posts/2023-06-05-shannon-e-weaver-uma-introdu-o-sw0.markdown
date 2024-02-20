@@ -3,7 +3,6 @@ layout: post
 title: "SW0: Uma introdução"
 date: "2023-06-05 21:25:58 +0100"
 tags: [mathematics,communication,shannon-weaver]
-lang: pt
 ---
 
 Encontro-me a fazer uma microcredencial sobre Comunicação. No decorrer de um

@@ -3,7 +3,6 @@ layout: post
 title: "Mirandela Open 2022 - Round 1"
 date: "2022-08-18 10:53:16 +0100"
 tags: chess
-lang: en
 ---
 
 TL&DR: My return has been ridden with issues, decided to go to

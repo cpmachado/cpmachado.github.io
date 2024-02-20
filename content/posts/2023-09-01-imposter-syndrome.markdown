@@ -3,7 +3,6 @@ layout: post
 title: "Imposter syndrome"
 date: "2023-09-01 00:52:13 +0100"
 tags: ['journal']
-lang: 'en'
 ---
 
 It has been a testing time. At every corner, self doubt crashes like

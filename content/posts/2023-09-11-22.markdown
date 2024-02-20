@@ -3,7 +3,6 @@ layout: post
 title: "22"
 date: "2023-09-11 15:17:23 +0100"
 tags: 'journal'
-lang: en
 ---
 
 It's not 23, but 22 years since 9/11. Two planes crashed against the

@@ -3,7 +3,6 @@ layout: post
 title: "Back in the game"
 date: "2023-05-27 17:49:15 +0100"
 tags: journal
-lang: en
 ---
 
 TL&DR: Yet again trying to write more consistently. Struggles towards a new

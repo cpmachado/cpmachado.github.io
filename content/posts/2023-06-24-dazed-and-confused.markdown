@@ -3,7 +3,6 @@ layout: post
 title: "Dazed and Confused"
 date: "2023-06-24 19:20:48 +0100"
 tags: journal
-lang: en
 ---
 
 > Been dazed and confused for so long it's not true

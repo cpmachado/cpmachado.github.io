@@ -4,7 +4,6 @@ title: "p^{mdc(a,b)} = 1 mod n"
 date: "2023-06-02 23:24:17 +0100"
 tags: [mathematics,discrete-mathematics]
 mathjax: true
-lang: pt
 ---
 
 
