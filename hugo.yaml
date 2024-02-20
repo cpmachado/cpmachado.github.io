@@ -10,7 +10,7 @@ params:
   description: >-
      Meditations about life, software, mathematics and little more.
   theme_config:
-    appearance: light
+    appearance: auto
     show_description: true
     back_home_text: "127.0.0.1"
 permalinks:
