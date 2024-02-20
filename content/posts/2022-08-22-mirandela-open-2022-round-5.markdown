@@ -21,7 +21,7 @@ perspective.
 
 {{< lichesse qMNWd5tX >}}
 
-> All games can be found [here]({{site.url}}/res/mirandela-open-2022.pgn)
+> All games can be found [here](/mirandela-open-2022.pgn)
 
 The situation was despicable. Misery and beyond misery was my situation, until
 my opponent blundered with 29. ...Qc4, and I found Rd7.

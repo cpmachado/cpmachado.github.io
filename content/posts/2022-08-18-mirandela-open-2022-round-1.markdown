@@ -26,7 +26,7 @@ experience
 
 {{< lichesse "zx0je5Y8" >}}
 
-> All games can be found [here]({{site.url}}/res/mirandela-open-2022.pgn)
+> All games can be found [here](/mirandela-open-2022.pgn)
 
 We played a Berlin Defense, which I wasn't too scared of, as my analysis of
 Carlsen, Anand, and Kramnik games went deep, some couple years ago. We ended
