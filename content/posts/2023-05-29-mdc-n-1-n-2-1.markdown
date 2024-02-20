@@ -1,0 +1,74 @@
+---
+layout: post
+title: "mdc(n + 1, n^2 + 1)"
+date: "2023-05-29 19:32:46 +0100"
+tags: [mathematics,discrete-mathematics]
+lang: pt
+mathjax: true
+---
+
+ ***Teorema***:
+
+Seja $\Psi: \mathbb{N} \to \mathbb{N}$ uma função definida por
+$$
+\Psi(n) = \text{mdc}(n + 1, n^2 + 1)
+$$, então
+$$
+\Psi(n) =
+\begin{cases}
+1, n \equiv 0 \text{ mod 2} \newline
+2, n \equiv 1 \text{ mod 2}
+\end{cases}
+$$
+
+ ***Demonstração***:
+
+ Seja $n \in \mathbb{N} $, tem-se
+
+$$n^2 + 1 = n^2 - 1 + 2 = (n + 1)(n - 1) + 2 \equiv 2 \text{ mod } n + 1$$
+
+ Pelo lema de Euclides
+ {% cite Martinez -L Lema -l Lema 1.4 %},
+ este resultado implica que
+
+ $$ \Psi(n) = \text{mdc}(n+1, n^2 + 1) = \text{mdc}(n + 1, 2).$$
+
+ Logo,
+
+ $$
+ \begin{align*}
+ \forall n \in \mathbb{N}, \exists k \in \mathbb{N}:
+ n + 1 &=
+ \begin{cases}
+ 2k + 1, n \equiv 0 \text{ mod 2} \newline
+ 2k, n \equiv 1 \text{ mod 2}
+ \end{cases} \newline
+ \implies \Psi(n) &=
+ \begin{cases}
+ \text{mdc}(2k + 1, 2), n \equiv 0 \text{ mod 2}\newline
+ \text{mdc}(2k, 2), n \equiv 1 \text{ mod 2}
+ \end{cases} \newline
+ &=
+ \begin{cases}
+ 1, n \equiv 0 \text{ mod 2}\newline
+ 2, n \equiv 1 \text{ mod 2}
+ \end{cases}
+ \end{align*}
+ $$
+
+ q.e.d.
+
+## Bibliografia
+
+{% bibliography --cited %}
+
+
+---
+
+EDITED:
+- 2023-06-02 23:52:30 +0000
+  + Change location of EDITED
+- 2023-06-02 18:47:00 +0000
+  + Fix alignment of q.e.d.
+- 2023-06-02 17:18:31 +0000
+  + Added Bibliography

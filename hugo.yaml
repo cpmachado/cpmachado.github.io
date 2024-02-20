@@ -1,0 +1,17 @@
+baseURL: "https://cpmachado.github.io"
+theme: "nostyleplease"
+title: "cpmachado's notebook"
+languageCode: en
+email: cpmachado@protonmail.com
+
+params:
+  favicon: /favicon.png
+  email: cpmachado@protonmail.com
+  description: >-
+     Meditations about life, software, mathematics and little more.
+  theme_config:
+    appearance: light
+    show_description: true
+    back_home_text: "127.0.0.1"
+permalinks:
+  posts: /:title/
