@@ -9,9 +9,9 @@ be offended if I don't get back at you.
 You can contact me through my email:
 [{{< param "email" >}}](mailto:{{< param "email" >}})
 
-My PGP Public key is [here](res/gpg_cpmachado_key.asc), or below.
+My PGP Public key is [here](/gpg_cpmachado_key.asc), or below.
 
-My SSH Public key is [here](res/ssh_cpmachado_key.asc).
+My SSH Public key is [here](/ssh_cpmachado_key.asc).
 
 Give me a poke, if you have an interesting project.
 I live in Lisbon, so remote or around.
