@@ -3,7 +3,6 @@ layout: post
 title: "Um pouco de sucesso"
 date: "2023-06-02 18:31:28 +0100"
 tags: journal
-lang: pt
 ---
 
 Desde de Setembro que estou a tirar uma licenciatura em Matemática. Há uns

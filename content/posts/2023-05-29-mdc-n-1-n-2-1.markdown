@@ -3,7 +3,6 @@ layout: post
 title: "mdc(n + 1, n^2 + 1)"
 date: "2023-05-29 19:32:46 +0100"
 tags: [mathematics,discrete-mathematics]
-lang: pt
 mathjax: true
 ---
 

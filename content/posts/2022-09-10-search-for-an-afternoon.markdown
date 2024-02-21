@@ -3,7 +3,6 @@ layout: post
 title: "Search for an afternoon"
 date: "2022-09-10 18:26:26 +0100"
 tags: journal
-lang: en
 ---
 
 TL&DR: After Mirandela, I had my birthday and other events, which drove to

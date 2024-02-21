@@ -3,7 +3,6 @@ layout: post
 title: "n + 1 | n^2 + 1"
 date: "2023-06-02 23:42:22 +0100"
 tags: [mathematics,discrete-mathematics]
-lang: pt
 mathjax: true
 ---
 

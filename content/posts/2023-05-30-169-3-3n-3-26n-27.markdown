@@ -3,7 +3,6 @@ layout: post
 title: "169 | 3^{3n + 3} - 26n -27"
 date: "2023-05-30 15:22:57 +0100"
 tags: [mathematics,discrete-mathematics]
-lang: pt
 mathjax: true
 ---
 

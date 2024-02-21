@@ -3,7 +3,6 @@ layout: post
 title: "GitHub cleanup/Paradigm Shift"
 date: "2023-07-30 14:14:54 +0100"
 tags: [dev,mathematics,journal]
-lang: en
 ---
 
 

@@ -3,7 +3,6 @@ layout: post
 title: "Surreal pain"
 date: "2022-08-18 17:46:00 +0100"
 tags: journal
-lang: en
 ---
 
 TL&DR: Musings on psychosomatic symptoms, and how anxiety sometimes goes

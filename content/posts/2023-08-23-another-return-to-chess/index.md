@@ -3,7 +3,6 @@ layout: post
 title: "Another return to chess?"
 date: "2023-08-23 10:57:44 +0100"
 tags: [journal,chess]
-lang: en
 ---
 
 TL&DR: After last year's troubled tournament, I've not touched a chess set
