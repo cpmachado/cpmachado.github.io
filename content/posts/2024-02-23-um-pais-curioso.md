@@ -1,5 +1,5 @@
 ---
-title: 'Um pais curioso'
+title: 'Um país curioso'
 date: 2024-02-23T23:21:29Z
 tags: [journal, politics]
 ---
