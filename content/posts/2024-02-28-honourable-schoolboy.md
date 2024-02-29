@@ -8,7 +8,7 @@ It's been two years to finish. The glorious day had this book by my side. I'm
 talking about "Honourable Schoolboy" by John Le Carré. It appears to me that
 finishing the book today is an omen of some kind, or so speaks my slightly
 superstitious side. Maybe being facetious in some way is a personal trait,
-can't say to posses an answer.
+can't say to have an answer.
 
 It's the end of a cycle of drowning, or so I hope. I bought and started it,
 when everything started going nasty, professionally. When something goes wrong
