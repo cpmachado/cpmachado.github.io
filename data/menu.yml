@@ -9,6 +9,9 @@ entries:
   - title: tags
     url: tags
 
+  - title: books
+    url: books
+
   - title: about
     url: about
 
