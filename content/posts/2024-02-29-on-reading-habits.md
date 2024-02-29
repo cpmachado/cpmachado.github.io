@@ -4,6 +4,8 @@ date: 2024-02-29T11:21:18Z
 tags: [journal, reading]
 ---
 
+***Note:*** Created a new section on the books that I read at [books](/books "Books section")
+
 For the last couple years, I've been trying to improve my reading
 habits. Unfortunately, they've been lacking for the last few
 months. It's a new year, and just now finished the first book of the
