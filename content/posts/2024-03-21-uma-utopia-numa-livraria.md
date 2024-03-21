@@ -4,6 +4,19 @@ date: 2024-03-21T13:53:54Z
 tags: [journal, books]
 ---
 
+-----
+
+Os livros mencionados:
+
+| Tĩtulo                            | Autor            | ISBN13        | Língua |
+|-----------------------------------|------------------|---------------|--------|
+| Os Meus Dias na Livraria Morisaki | Satoshi Yagisawa | 9789722370479 | pt     |
+| Uma Noite na Livraria Morisaki    | Satoshi Yagisawa | 9789722372923 | pt     |
+
+
+
+-----
+
 Este ano tenho lido pouco. Na semana passada, passava pela secção de
 livros do Continuente do Carregado(também conhecida como a livraria de
 Alenquer), no qual encontrei dois livros de um autor japonês. Apesar
