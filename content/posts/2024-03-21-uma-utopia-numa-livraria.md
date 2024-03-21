@@ -4,18 +4,6 @@ date: 2024-03-21T13:53:54Z
 tags: [journal, reading]
 ---
 
------
-
-Os livros mencionados:
-
-| Tĩtulo                            | Autor            | ISBN13        | Língua |
-|-----------------------------------|------------------|---------------|--------|
-| Os Meus Dias na Livraria Morisaki | Satoshi Yagisawa | 9789722370479 | pt     |
-| Uma Noite na Livraria Morisaki    | Satoshi Yagisawa | 9789722372923 | pt     |
-
-
-
------
 
 Este ano tenho lido pouco. Na semana passada, passava pela secção de
 livros do Continuente do Carregado(também conhecida como a livraria de
@@ -41,3 +29,15 @@ sobre a vida, de ser honesto e integro para consigo próprio, família e
 tudo o que importa para qualquer pessoa.  Fiquei completamente preso,
 tanto que os li rapidamente. São curtos, leves de ler, mas como
 qualquer bom livro, dão um bom soco no estômago. ***Recomendo vivamente***! 
+
+-----
+
+Os livros mencionados:
+
+| Tĩtulo                            | Autor            | ISBN13        | Língua |
+|-----------------------------------|------------------|---------------|--------|
+| Os Meus Dias na Livraria Morisaki | Satoshi Yagisawa | 9789722370479 | pt     |
+| Uma Noite na Livraria Morisaki    | Satoshi Yagisawa | 9789722372923 | pt     |
+
+
+
