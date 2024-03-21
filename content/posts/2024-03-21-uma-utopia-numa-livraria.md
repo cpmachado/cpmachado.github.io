@@ -1,7 +1,7 @@
 ---
 title: 'Uma Utopia Numa Livraria'
 date: 2024-03-21T13:53:54Z
-tags: [journal, books]
+tags: [journal, reading]
 ---
 
 -----
